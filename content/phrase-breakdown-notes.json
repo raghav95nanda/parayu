@@ -1,0 +1,222 @@
+{
+  "0": {
+    "literal": "A respectful greeting.",
+    "note": "Namaskaaram is a complete conventional greeting. Learn it as a word, rather than treating each syllable as a separate meaning."
+  },
+  "1": {
+    "literal": "Gratitude / thanks.",
+    "note": "Nandi is a complete thank-you. Malayalam does not need a separate word for “you” in this expression."
+  },
+  "2": {
+    "literal": "Well-being + is / are …? → Are you well?",
+    "note": "Sukham means comfort, health or well-being, borrowed from Sanskrit sukha (“ease / happiness”). Aano is the question form of aanu (“is / are”): aanu + -o. The listener is understood, so no separate “you” is needed."
+  },
+  "3": {
+    "literal": "Well-being. → I’m well.",
+    "note": "This is the short, natural answer to sukhamaano? The person and “am” are understood from the conversation."
+  },
+  "4": {
+    "literal": "My + name + Raghav.",
+    "note": "Ente is the possessive of njaan (“I”). Put ente before peru (“name”), then give your name. English needs “is”; this short introduction can leave it understood."
+  },
+  "5": {
+    "literal": "Tomorrow + can / let us see. → See you tomorrow.",
+    "note": "Naale sets the time. Kaanaam is from kaanuka (“see”); in a goodbye it means “see you / let us meet”, not simply “I can see”."
+  },
+  "6": {
+    "literal": "A / one + tea + want.",
+    "note": "Oru before a noun can mean “one” or “a”. Put what you want before venam. The person is understood: the whole phrase naturally becomes “I’d like a tea”."
+  },
+  "7": {
+    "literal": "Water + want.",
+    "note": "Vellam names the thing you want; venam supplies the want / need. Malayalam can omit “I” when the order is obviously yours."
+  },
+  "8": {
+    "literal": "A / one + coffee + want.",
+    "note": "The pattern is oru + item + venam. Swap kaappi for another drink while keeping the order the same."
+  },
+  "9": {
+    "literal": "Black / without milk + tea.",
+    "note": "Kattan describes the kind of tea. Learn it as a tea-shop expression meaning tea without milk; it does not literally contain a separate word for “without”."
+  },
+  "10": {
+    "literal": "Milk + do not want.",
+    "note": "Paal names the thing being declined. Venda is the negative want / need form. Compare paal venam (“I want milk”) with paal venda (“no milk”)."
+  },
+  "11": {
+    "literal": "Sweetening + do not want.",
+    "note": "Madhuram means sweetness / sweetening. In a tea order, this asks for no sugar or sweetening. Venda declines it; the polite “please” comes from tone and context."
+  },
+  "12": {
+    "literal": "Where?",
+    "note": "Evide is already a question word. It does not need the yes/no ending -o. Point or name the place you are asking about."
+  },
+  "13": {
+    "literal": "Bus stand + where?",
+    "note": "Keep the familiar borrowed place expression bus stand, then add evide. The linking “is” and article “the” in English are understood."
+  },
+  "14": {
+    "literal": "Railway station + where?",
+    "note": "Use the familiar place name before evide. You can reuse this question with another place: [place] evide?"
+  },
+  "15": {
+    "literal": "Here + stop.",
+    "note": "Ivide tells the driver where. Nirthu is an instruction from nirththuka (“stop”); the native form has a long final vowel. Do not confuse ivide (“here”) with evide (“where”)."
+  },
+  "16": {
+    "literal": "Left side + towards.",
+    "note": "The base for the left side changes shape to idath-/edath- before the direction ending -ottu. Learn the joined direction edathottu as a unit you can say quickly."
+  },
+  "17": {
+    "literal": "Right side + towards.",
+    "note": "Valam (“right side”) uses the changed stem valath- before -ottu (“towards”). The result is a direction, rather than a description of something on your right."
+  },
+  "18": {
+    "literal": "How many + rupees?",
+    "note": "Ethra asks for an amount; roopa names the currency. No -o is needed because ethra already makes this an information question."
+  },
+  "19": {
+    "literal": "Want / need.",
+    "note": "Venam can stand alone when the offered item is obvious. Enikku … venam is the fuller pattern for “I want / need …”."
+  },
+  "20": {
+    "literal": "Do not want / need.",
+    "note": "Venda is a complete way to decline an offered item. Learn venam and venda as a contrasting pair; do not construct the negative by adding a separate English-style “not”."
+  },
+  "21": {
+    "literal": "This + want.",
+    "note": "Ithu stands for the object you point to. In the fuller form enikku ithu venam, enikku identifies who wants it; here it can be left out."
+  },
+  "22": {
+    "literal": "A little + could [you] reduce?",
+    "note": "Kurachu limits the amount. Kuraykk- is the reduce / lower stem; the questioned -aam form makes a possible-action request. The final -o asks the question, but does not itself mean “please”."
+  },
+  "23": {
+    "literal": "Bill + will [you] give?",
+    "note": "Tharu- is giving towards the speaker. Tharum (“will give”) becomes tharumo? with the question ending -o. As a request, natural English is “Could I have the bill?”."
+  },
+  "24": {
+    "literal": "In the mind + became clear + not.",
+    "note": "Manassilaayi is “understood”. The negative past form joins the changed past stem with -illa: manassilaayilla. Learn the positive and negative together; this is not the present “I don’t know”."
+  },
+  "25": {
+    "literal": "Again + could [you] say?",
+    "note": "Veendum tells how to repeat the action. Paray- is the say / speak stem; the -aam form plus question ending -o makes a polite request."
+  },
+  "26": {
+    "literal": "A little / just + slowly + could [you] speak?",
+    "note": "Onnu literally means “one”, but before a request it often softens it to “just / a little”. Pathukke describes speaking slowly; the final verb asks for the action."
+  },
+  "27": {
+    "literal": "Know + not.",
+    "note": "Ariyilla is the negative knowing form. The person is understood. Add enikku to say explicitly “I don’t know”."
+  },
+  "28": {
+    "literal": "To me + Malayalam + not known.",
+    "note": "Malayalam often expresses knowing with a “to / for” person form. Enikku names the experiencer, Malayalam is what is known, and ariyilla supplies the negative."
+  },
+  "29": {
+    "literal": "English + know + question?",
+    "note": "Ariyaam means “know”; ariyaamo? asks whether someone knows. The person is understood from context, so this naturally means “Do you know English?”."
+  },
+  "30": {
+    "literal": "Help + request ending.",
+    "note": "Sahaayikk- is the help stem. The long -oo ending makes a request / instruction. Tone and context supply the polite “please”."
+  },
+  "31": {
+    "literal": "Hospital + where?",
+    "note": "Aashupathri names the place, then evide asks its location. The natural English question adds “is the”."
+  },
+  "32": {
+    "literal": "Medicine + need.",
+    "note": "Marunnu names what is needed. Venam can express need as well as want; in this situation “I need medicine” is natural."
+  },
+  "33": {
+    "literal": "Medicine + shop + where?",
+    "note": "Marunnu kada is a medicine shop: a pharmacy. Then evide asks where it is. This is a useful example of two ordinary words naming a place."
+  },
+  "34": {
+    "literal": "To me + stomach + pain.",
+    "note": "Enikku identifies who experiences the pain. Vayar names the stomach and vedana is pain. This is a short spoken expression, with the existence / have relation understood.",
+    "parts": [
+      {
+        "text": "enikku",
+        "meaning": "to me; for me"
+      },
+      {
+        "text": "vayar",
+        "meaning": "stomach; belly (in this expression)"
+      },
+      {
+        "text": "vedana",
+        "meaning": "pain"
+      }
+    ]
+  },
+  "35": {
+    "literal": "To me + fever + exists.",
+    "note": "Enikku (“to me”) + pani (“fever”) + undu (“exists”) naturally becomes “I have a fever”. Undu is used for existence / possession; it is different from the identity-linking aanu."
+  },
+  "42": {
+    "literal": "In having met [you] + happiness.",
+    "note": "Kandathil refers to having seen / met someone. Together with santhosham (“happiness”), this is the conventional “Nice to meet you”."
+  },
+  "45": {
+    "literal": "We (excluding you) + here + for the first time + is.",
+    "note": "Njangal excludes the listener. Aadyamaayi means “for the first time”; aanu can join to focus it. Natural English reorganizes this as “It is our first time here”."
+  },
+  "71": {
+    "literal": "To me + route + went wrong.",
+    "note": "Vazhi thetti is the everyday expression for losing your way. Enikku identifies the person affected; natural English uses “I have lost my way”."
+  },
+  "76": {
+    "literal": "This + put on and + may I try / see?",
+    "note": "Ittu links putting the item on to nokkaamo (“may I look / try?”). Together these actions make the ordinary expression for trying on clothing."
+  },
+  "80": {
+    "literal": "This + to me + liking came to be.",
+    "note": "Ishtamaayi means that something became liked / pleasing. With enikku, the natural English is “I like this one / I liked this”."
+  },
+  "84": {
+    "literal": "I + Malayalam + learning + am.",
+    "note": "Padikkuka is the learning / studying verbal-noun form. Aanu joins with a linking y in the ongoing-action expression padikkukayaanu: “am learning”."
+  },
+  "88": {
+    "literal": "What I said + correct + is it?",
+    "note": "Paranjathu turns “said” into “what was said”. Shariyaano asks whether that is correct. Natural English is “Did I say that correctly?”."
+  },
+  "121": {
+    "literal": "UPI + by way of + money + can [I] send?",
+    "note": "Vazhi (“way / route”) works here as “through / by”. The send-verb request asks whether payment through UPI is possible."
+  },
+  "134": {
+    "literal": "Here + footwear + should I remove?",
+    "note": "Oorano is the questioned necessity form of the remove verb. It asks whether removing footwear is required, rather than whether you are able to remove it."
+  },
+  "141": {
+    "literal": "Backwater / lake + trip + book + may [I] do?",
+    "note": "An English activity word can combine with cheyyuka (“do”) to make a Malayalam verb. Book cheyyaamo? asks whether you can book the trip."
+  },
+  "61": {
+    "literal": "Meter + could [you] switch on / use?",
+    "note": "Idaamo literally asks “could you put / set [it]?”. With the fare meter, it asks the driver to switch it on and charge by it. Here meter is the fare device, rather than a distance unit.",
+    "parts": [
+      {
+        "text": "meter",
+        "meaning": "fare meter (in the auto / taxi)"
+      },
+      {
+        "text": "id-",
+        "meaning": "put; set; switch on in this context"
+      },
+      {
+        "text": "-aam",
+        "meaning": "can / willing-to form"
+      },
+      {
+        "text": "-o?",
+        "meaning": "yes/no question ending"
+      }
+    ]
+  }
+}

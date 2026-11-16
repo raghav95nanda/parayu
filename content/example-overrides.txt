@@ -1,0 +1,120 @@
+# Malayalam headword | sentence | English translation
+മുതൽ|തിങ്കളാഴ്ച മുതൽ ഞാൻ ഇവിടെ ഉണ്ടാകും.|I will be here from Monday.
+ദിശ|ഈ ദിശയിൽ പോകൂ.|Go in this direction.
+ദൂരം|ഇവിടെ നിന്ന് എത്ര ദൂരം ഉണ്ട്?|How far is it from here?
+കിലോമീറ്റർ|രണ്ട് കിലോമീറ്റർ കൂടി പോകണം.|We need to go two more kilometres.
+മീറ്റർ|നൂറ് മീറ്റർ മുന്നോട്ട് പോകൂ.|Go one hundred metres ahead.
+വേഗത|ദയവായി വേഗത കുറയ്ക്കൂ.|Please reduce the speed.
+ഗതാഗതം|ഇന്ന് ഗതാഗതം കൂടുതലാണ്.|There is a lot of traffic today.
+തിരക്ക്|ഇവിടെ നല്ല തിരക്ക് ഉണ്ട്.|It is quite crowded here.
+അപകടം|അവിടെ ഒരു അപകടം ഉണ്ടായി.|There was an accident there.
+നിരക്ക്|മുറിയുടെ നിരക്ക് എത്രയാണ്?|What is the room rate?
+കൂലി|കൊച്ചിയിലേക്ക് കൂലി എത്രയാണ്?|What is the fare to Kochi?
+വാടക|ഈ കാറിന്റെ വാടക എത്രയാണ്?|How much does this car cost to hire?
+പാർക്കിങ്|ഇവിടെ പാർക്കിങ് ഉണ്ടോ?|Is there parking here?
+ടോൾ|ഇവിടെ ടോൾ കൊടുക്കണോ?|Do we have to pay a toll here?
+ടിക്കറ്റ്|എനിക്ക് രണ്ട് ടിക്കറ്റ് വേണം.|I need two tickets.
+റിസർവേഷൻ|എനിക്ക് ഒരു റിസർവേഷൻ ഉണ്ട്.|I have a reservation.
+ബുക്കിങ്|എന്റെ ബുക്കിങ് ഉറപ്പായോ?|Is my booking confirmed?
+വിമാനം|എന്റെ വിമാനം വൈകി.|My flight is delayed.
+ട്രെയിൻ|ഈ ട്രെയിൻ എപ്പോൾ പോകും?|When does this train leave?
+ബസ്|ഈ ബസ് എവിടേക്ക് പോകും?|Where does this bus go?
+കാർ|കാർ ഇവിടെ നിർത്തൂ.|Stop the car here.
+ഓട്ടോ|എനിക്ക് ഒരു ഓട്ടോ വേണം.|I need an auto-rickshaw.
+പാസ്പോർട്ട്|എന്റെ പാസ്പോർട്ട് ബാഗിൽ ഉണ്ട്.|My passport is in the bag.
+വിസ|എനിക്ക് വിസ ഉണ്ട്.|I have a visa.
+ലൈസൻസ്|എന്റെ ലൈസൻസ് ഇവിടെ ഉണ്ട്.|My licence is here.
+പ്ലാറ്റ്ഫോം|ഈ പ്ലാറ്റ്ഫോം ശരിയാണോ?|Is this the right platform?
+ഇന്ധനം|വണ്ടിയിൽ ഇന്ധനം കുറവാണ്.|The vehicle is low on fuel.
+ബ്രേക്ക്|ബ്രേക്ക് പരിശോധിക്കണം.|The brake should be checked.
+ഹോൺ|ദയവായി ഹോൺ അടിക്കരുത്.|Please do not sound the horn.
+സിഗ്നൽ|സിഗ്നൽ പച്ചയായി.|The signal turned green.
+തിരിച്ചറിയൽ|തിരിച്ചറിയൽ രേഖ കാണിക്കാമോ?|Could you show an identification document?
+അനുമതി|അകത്ത് പോകാൻ അനുമതി വേണം.|Permission is needed to go inside.
+സഹായം|എനിക്ക് നിങ്ങളുടെ സഹായം വേണം.|I need your help.
+ഭൂമികുലുക്കം|ഇന്നലെ ഒരു ഭൂമികുലുക്കം ഉണ്ടായി.|There was an earthquake yesterday.
+പണം|എന്റെ കൈയിൽ പണം ഉണ്ട്.|I have money with me.
+രൂപ|ഇതിന് നൂറ് രൂപയാണ്.|This costs one hundred rupees.
+പൈസ|എനിക്ക് പൈസ കുറവാണ്.|I am short of money.
+നാണയം|ഈ നാണയം പഴയതാണ്.|This coin is old.
+നോട്ട്|നൂറ് രൂപയുടെ നോട്ട് തരാമോ?|Could you give me a one-hundred-rupee note?
+വില|ഇതിന്റെ വില എത്രയാണ്?|What is the price of this?
+ചെലവ്|യാത്രയുടെ ചെലവ് എത്രയാണ്?|How much does the journey cost?
+കണക്ക്|ഈ കണക്ക് ശരിയാണോ?|Is this calculation correct?
+ബിൽ|ദയവായി ബിൽ തരൂ.|Please give me the bill.
+രസീത്|എനിക്ക് ഒരു രസീത് വേണം.|I need a receipt.
+ചില്ലറ|നിങ്ങളുടെ കൈയിൽ ചില്ലറ ഉണ്ടോ?|Do you have change?
+ബാക്കി|ബാക്കി എത്രയാണ്?|How much is the balance?
+തുക|ആകെ തുക എത്രയാണ്?|What is the total amount?
+കിഴിവ്|കുറച്ച് കിഴിവ് തരാമോ?|Could you give a small discount?
+ലാഭം|ഈ മാസം ലാഭം ഉണ്ട്.|There is a profit this month.
+നഷ്ടം|കച്ചവടത്തിൽ നഷ്ടം ഉണ്ടായി.|There was a loss in the business.
+വരുമാനം|അവരുടെ വരുമാനം വർദ്ധിച്ചു.|Their income increased.
+സമ്പാദ്യം|എനിക്ക് കുറച്ച് സമ്പാദ്യം ഉണ്ട്.|I have some savings.
+അക്കൗണ്ട്|എനിക്ക് ഇവിടെ ഒരു അക്കൗണ്ട് ഉണ്ട്.|I have an account here.
+കാർഡ്|കാർഡ് ഉപയോഗിക്കാമോ?|Can I use a card?
+പേയ്മെന്റ്|പേയ്മെന്റ് പൂർത്തിയായി.|The payment is complete.
+പാസ്ബുക്ക്|എന്റെ പാസ്ബുക്ക് ഇവിടെ ഉണ്ട്.|My passbook is here.
+ചെക്ക്|ഒരു ചെക്ക് തരാമോ?|Could you give me a cheque?
+വായ്പ|എനിക്ക് ഒരു വായ്പ വേണം.|I need a loan.
+കടം|എനിക്ക് കടം ഇല്ല.|I have no debt.
+പലിശ|പലിശ എത്രയാണ്?|How much is the interest?
+നിക്ഷേപം|ഈ നിക്ഷേപം സുരക്ഷിതമാണോ?|Is this investment safe?
+മുൻകൂർ|മുൻകൂർ പണം കൊടുക്കണോ?|Should I pay in advance?
+ഫീസ്|ഈ കോഴ്സിന്റെ ഫീസ് എത്രയാണ്?|What is the fee for this course?
+പിഴ|പിഴ എത്രയാണ്?|How much is the fine?
+പണംമാറ്റം|ഇവിടെ പണംമാറ്റം ഉണ്ടോ?|Is money exchange available here?
+മടക്കിനൽകൽ|പണം മടക്കിനൽകൽ സാധ്യമാണോ?|Is a refund possible?
+വിൽപ്പനക്കാരൻ|വിൽപ്പനക്കാരൻ ഇവിടെ ഉണ്ട്.|The seller is here.
+വാങ്ങുന്നയാൾ|വാങ്ങുന്നയാൾ പണം കൊടുത്തു.|The buyer paid the money.
+ഡൗൺലോഡ്|ഡൗൺലോഡ് പൂർത്തിയായി.|The download is complete.
+അപ്ഡേറ്റ്|ആപ്പിന് ഒരു അപ്ഡേറ്റ് ഉണ്ട്.|There is an update for the app.
+സെറ്റിങ്|ഈ സെറ്റിങ് മാറ്റാമോ?|Can this setting be changed?
+കണക്ഷൻ|ഇവിടെ കണക്ഷൻ ഇല്ല.|There is no connection here.
+സന്ദേശം|എനിക്ക് ഒരു സന്ദേശം വന്നു.|I received a message.
+ഇമെയിൽ|ഒരു ഇമെയിൽ അയയ്ക്കാമോ?|Could you send an email?
+ഫോട്ടോ|ഒരു ഫോട്ടോ എടുക്കാമോ?|Could you take a photograph?
+വീഡിയോ|ഈ വീഡിയോ കാണൂ.|Watch this video.
+ശബ്ദരേഖ|ഈ ശബ്ദരേഖ കേൾക്കൂ.|Listen to this audio recording.
+ഓഡിയോ|ഓഡിയോ വീണ്ടും കേൾക്കാമോ?|Can we listen to the audio again?
+ചാർജർ|എന്റെ ചാർജർ എവിടെയാണ്?|Where is my charger?
+ബാറ്ററി|ഫോണിൽ ബാറ്ററി കുറവാണ്.|The phone battery is low.
+ഇന്റർനെറ്റ്|ഇവിടെ ഇന്റർനെറ്റ് ഉണ്ടോ?|Is there internet here?
+വൈഫൈ|വൈഫൈ പാസ്വേഡ് എന്താണ്?|What is the Wi-Fi password?
+പാസ്വേഡ്|പാസ്വേഡ് വീണ്ടും പറയാമോ?|Could you repeat the password?
+നെറ്റ്വർക്ക്|ഇവിടെ നെറ്റ്വർക്ക് ഇല്ല.|There is no network here.
+ഡാറ്റ|എന്റെ ഡാറ്റ തീർന്നു.|My data has run out.
+പ്രശ്നം|ഇവിടെ ഒരു പ്രശ്നം ഉണ്ട്.|There is a problem here.
+പരിഹാരം|ഈ പ്രശ്നത്തിന് പരിഹാരം ഉണ്ട്.|There is a solution to this problem.
+കാര്യം|ഒരു കാര്യം ചോദിക്കട്ടെ?|May I ask something?
+വിഷയം|ഈ വിഷയം എനിക്ക് ഇഷ്ടമാണ്.|I like this subject.
+ഭാഗം|ഈ ഭാഗം എനിക്ക് മനസ്സിലായില്ല.|I did not understand this part.
+അർത്ഥം|ഈ വാക്കിന്റെ അർത്ഥം എന്താണ്?|What does this word mean?
+വാക്ക്|ഈ വാക്ക് എങ്ങനെ പറയണം?|How should this word be said?
+വാക്യം|ഈ വാക്യം വീണ്ടും വായിക്കൂ.|Read this sentence again.
+ഭാഷ|ഇത് ഏത് ഭാഷ ആണ്?|Which language is this?
+മലയാളം|ഞാൻ മലയാളം പഠിക്കുന്നു.|I am learning Malayalam.
+ഇംഗ്ലീഷ്|നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ?|Do you know English?
+തമിഴ്|എനിക്ക് തമിഴ് കുറച്ച് അറിയാം.|I know a little Tamil.
+ഹിന്ദി|എനിക്ക് ഹിന്ദി അറിയാം.|I know Hindi.
+തുടക്കം|ഇത് ഒരു നല്ല തുടക്കം ആണ്.|This is a good beginning.
+അവസാനം|കഥയുടെ അവസാനം മനോഹരമാണ്.|The ending of the story is beautiful.
+മറുപടി|എനിക്ക് ഒരു മറുപടി വേണം.|I need a reply.
+അളവ്|ഈ അളവ് ശരിയാണോ?|Is this measurement correct?
+എണ്ണം|ആളുകളുടെ എണ്ണം എത്രയാണ്?|How many people are there?
+നിറം|ഈ നിറം എനിക്ക് ഇഷ്ടമാണ്.|I like this colour.
+രൂപം|ഇതിന്റെ രൂപം മനോഹരമാണ്.|Its shape is beautiful.
+ചിത്രം|ഈ ചിത്രം ആരാണ് വരച്ചത്?|Who drew this picture?
+ശമ്പളം|ഈ മാസം ശമ്പളം കിട്ടി.|I received my salary this month.
+വിൽപ്പന|ഇന്ന് നല്ല വിൽപ്പന ഉണ്ടായി.|There were good sales today.
+ജോലി|നിങ്ങൾ എന്ത് ജോലി ചെയ്യുന്നു?|What work do you do?
+പണി|എന്റെ പണി തീർന്നു.|My work is finished.
+അംഗം|ഞാൻ ഈ സംഘത്തിലെ അംഗം ആണ്.|I am a member of this group.
+പേര്|നിങ്ങളുടെ പേര് എന്താണ്?|What is your name?
+നമ്പർ|നിങ്ങളുടെ ഫോൺ നമ്പർ തരാമോ?|Could you give me your phone number?
+പഠനം|എന്റെ പഠനം തുടരുന്നു.|My studies are continuing.
+പരാജയം|പരാജയം വന്നാലും വീണ്ടും ശ്രമിക്കൂ.|Try again even if you fail.
+കണ്ണീർ|അവളുടെ കണ്ണിൽ കണ്ണീർ ഉണ്ട്.|There are tears in her eyes.
+ഓർമ്മ|ഈ യാത്രയുടെ ഓർമ്മ എനിക്ക് ഇഷ്ടമാണ്.|I like the memory of this journey.
+ചിരി|അവളുടെ ചിരി മനോഹരമാണ്.|Her smile is beautiful.
+ഒരേ|ഞങ്ങൾക്ക് ഒരേ പേര് ആണ്.|We have the same name.

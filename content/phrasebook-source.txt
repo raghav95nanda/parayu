@@ -1,0 +1,109 @@
+# Category index | Malayalam phrase | English meaning | optional pronunciation tip
+0|സുഖം, നന്ദി.|I’m well, thank you.
+0|നിങ്ങളുടെ പേര് എന്താണ്?|What is your name?
+0|നിങ്ങൾ എവിടെ നിന്നാണ്?|Where are you from?
+0|ഞാൻ ഡൽഹിയിൽ നിന്നാണ്.|I am from Delhi.
+0|ഇത് എന്റെ ഭാര്യയാണ്.|This is my wife.
+0|ഇത് എന്റെ ഭർത്താവാണ്.|This is my husband.
+0|കണ്ടതിൽ സന്തോഷം.|Nice to meet you.
+0|വീണ്ടും കാണാം.|See you again.
+0|ഞാൻ ഒരു വിനോദസഞ്ചാരിയാണ്.|I am a tourist.
+0|ഞങ്ങൾ ഇവിടെ ആദ്യമായാണ്.|It is our first time here.
+0|ഒരു നിമിഷം കാത്തിരിക്കൂ.|Please wait a moment.
+0|നല്ല ദിവസം ആശംസിക്കുന്നു.|Have a good day.
+1|രണ്ട് പേർക്ക് ഒരു മേശ വേണം.|We need a table for two.
+1|മെനു തരാമോ?|Could I have the menu?
+1|എന്താണ് ഇവിടെ പ്രത്യേകത?|What is the speciality here?
+1|എനിക്ക് സസ്യാഹാരം വേണം.|I would like vegetarian food.
+1|ഇതിൽ മുട്ട ഉണ്ടോ?|Does this contain egg?
+1|ഇതിൽ ഇറച്ചി ഉണ്ടോ?|Does this contain meat?
+1|എരിവ് കുറച്ച് മതി.|A little less spice, please.
+1|പഞ്ചസാര ഇല്ലാതെ തരാമോ?|Could you give it without sugar?
+1|ഒരു കുപ്പി വെള്ളം വേണം.|I would like a bottle of water.
+1|ഭക്ഷണം വളരെ രുചിയുണ്ട്.|The food is very tasty.
+1|ഇത് പൊതിഞ്ഞു തരാമോ?|Could you pack this to take away?
+1|ഇതിൽ കടല ഉണ്ടോ? എനിക്ക് അലർജിയുണ്ട്.|Does this contain chickpeas? I have an allergy.
+2|കൊച്ചിയിലേക്ക് പോകണം.|I need to go to Kochi.
+2|മീറ്റർ ഇടാമോ?|Could you use the meter?
+2|അവിടെ പോകാൻ എത്ര രൂപയാണ്?|How much does it cost to go there?
+2|എത്ര സമയം എടുക്കും?|How long will it take?
+2|ഈ ബസ് എവിടേക്ക് പോകും?|Where does this bus go?
+2|രണ്ട് ടിക്കറ്റ് വേണം.|I would like two tickets.
+2|അടുത്ത സ്റ്റോപ്പ് ഏതാണ്?|Which is the next stop?
+2|ഏത് പ്ലാറ്റ്ഫോമിലാണ് ട്രെയിൻ?|Which platform is the train on?
+2|ദയവായി പതുക്കെ പോകൂ.|Please go slowly.
+2|നേരെ പോകൂ.|Go straight ahead.
+2|ഇവിടെ നിന്ന് നടക്കാമോ?|Can I walk from here?
+2|എനിക്ക് വഴി തെറ്റി.|I have lost my way.
+3|ഇത് കാണിക്കാമോ?|Could you show me this?
+3|വേറെ നിറം ഉണ്ടോ?|Do you have another colour?
+3|ഇതിലും വലുത് ഉണ്ടോ?|Do you have a larger one?
+3|ഇതിലും ചെറുത് ഉണ്ടോ?|Do you have a smaller one?
+3|ഇത് ഇട്ടു നോക്കാമോ?|May I try this on?
+3|രണ്ട് എണ്ണം വേണം.|I would like two of these.
+3|വില വളരെ കൂടുതലാണ്.|The price is very high.
+3|ഒരു സഞ്ചി തരാമോ?|Could you give me a bag?
+3|ഇത് എനിക്ക് ഇഷ്ടമായി.|I like this one.
+3|ഞാൻ ഒന്ന് നോക്കട്ടെ.|Let me have a look.
+3|കട എപ്പോൾ അടയ്ക്കും?|When does the shop close?
+3|ഇത് മാറ്റി തരാമോ?|Could you exchange this?
+4|ഞാൻ മലയാളം പഠിക്കുകയാണ്.|I am learning Malayalam.
+4|എനിക്ക് കുറച്ച് മലയാളം അറിയാം.|I know a little Malayalam.
+4|ഈ വാക്കിന്റെ അർത്ഥം എന്താണ്?|What does this word mean?
+4|ഇത് മലയാളത്തിൽ എങ്ങനെ പറയും?|How do you say this in Malayalam?
+4|ഞാൻ പറഞ്ഞത് ശരിയാണോ?|Did I say that correctly?
+4|വീണ്ടും പറഞ്ഞുതരാമോ?|Could you say it for me again?
+4|കുറച്ച് കൂടി പതുക്കെ പറയൂ.|Please say it a little more slowly.
+4|എനിക്ക് മനസ്സിലായി.|I understood.
+4|ക്ഷമിക്കണം, എനിക്ക് കേട്ടില്ല.|Sorry, I did not hear that.
+4|ഇത് എഴുതിക്കാണിക്കാമോ?|Could you show me this in writing?
+4|ഒരു നിമിഷം തരാമോ?|Could you give me a moment?
+4|നിങ്ങളുടെ സഹായത്തിന് നന്ദി.|Thank you for your help.
+5|എനിക്ക് ഒരു ഡോക്ടറെ കാണണം.|I need to see a doctor.
+5|എനിക്ക് സുഖമില്ല.|I do not feel well.
+5|എനിക്ക് ഇവിടെ വേദനയുണ്ട്.|I have pain here.
+5|എനിക്ക് തലവേദന ഉണ്ട്.|I have a headache.
+5|ഈ മരുന്ന് എപ്പോൾ കഴിക്കണം?|When should I take this medicine?
+5|എന്റെ ഫോൺ നഷ്ടപ്പെട്ടു.|I have lost my phone.
+5|എന്റെ ബാഗ് കാണുന്നില്ല.|I cannot find my bag.
+5|ദയവായി പോലീസിനെ വിളിക്കൂ.|Please call the police.
+5|ഒരു ആംബുലൻസ് വിളിക്കൂ.|Call an ambulance.
+5|എനിക്ക് അലർജി ഉണ്ട്.|I have an allergy.
+5|കുടിക്കാൻ സുരക്ഷിതമായ വെള്ളം വേണം.|I need water that is safe to drink.
+5|ആരെങ്കിലും എന്നെ സഹായിക്കാമോ?|Could someone help me?
+6|എനിക്ക് ഒരു ബുക്കിങ് ഉണ്ട്.|I have a booking.
+6|ഒരു മുറി ലഭ്യമാണോ?|Is a room available?
+6|ഒരു രാത്രിക്ക് എത്ര രൂപയാണ്?|How much is it for one night?
+6|രണ്ട് രാത്രി താമസിക്കണം.|I would like to stay for two nights.
+6|മുറി കാണാമോ?|May I see the room?
+6|എയർ കണ്ടീഷൻ ഉണ്ടോ?|Is there air conditioning?
+6|ചൂടുവെള്ളം കിട്ടുമോ?|Is hot water available?
+6|ഒരു തൂവാല കൂടി തരാമോ?|Could you give me another towel?
+6|മുറി വൃത്തിയാക്കാമോ?|Could you clean the room?
+6|ചെക്കൗട്ട് എത്ര മണിക്കാണ്?|What time is checkout?
+6|ബാഗ് ഇവിടെ വെക്കാമോ?|May I leave my bag here?
+6|വൈഫൈ പാസ്വേഡ് എന്താണ്?|What is the Wi-Fi password?
+7|കാർഡ് ഉപയോഗിക്കാമോ?|Can I pay by card?
+7|യുപിഐ വഴി പണം അയക്കാമോ?|Can I pay through UPI?
+7|പണം കിട്ടിയോ?|Did you receive the money?
+7|പേയ്മെന്റ് പൂർത്തിയായി.|The payment is complete.
+7|ചില്ലറ ഉണ്ടോ?|Do you have change?
+7|ബാക്കി എത്രയാണ്?|How much change is due?
+7|അടുത്ത് എടിഎം ഉണ്ടോ?|Is there an ATM nearby?
+7|ഫോൺ ചാർജ് ചെയ്യാമോ?|May I charge my phone?
+7|നിങ്ങളുടെ ഫോൺ ഒന്ന് ഉപയോഗിക്കാമോ?|May I use your phone briefly?
+7|ഇവിടെ നെറ്റ്വർക്ക് കിട്ടുന്നില്ല.|I am not getting a network signal here.
+7|എനിക്ക് ഒരു സിം കാർഡ് വേണം.|I need a SIM card.
+7|ഒരു രസീത് തരാമോ?|Could you give me a receipt?
+8|ഇവിടെ ഫോട്ടോ എടുക്കാമോ?|May I take photographs here?
+8|ഞങ്ങളുടെ ഒരു ഫോട്ടോ എടുക്കാമോ?|Could you take a photograph of us?
+8|ഇവിടെ ചെരുപ്പ് ഊരണോ?|Should I take my footwear off here?
+8|അകത്ത് പോകാമോ?|May I go inside?
+8|പ്രവേശന ഫീസ് എത്രയാണ്?|How much is the entrance fee?
+8|ഇത് എപ്പോൾ തുറക്കും?|When does this open?
+8|ഇന്ന് തുറന്നിട്ടുണ്ടോ?|Is it open today?
+8|ഒരു ഗൈഡ് കിട്ടുമോ?|Can I get a guide?
+8|നാളെ മഴ ഉണ്ടാകുമോ?|Will it rain tomorrow?
+8|കായൽ യാത്ര ബുക്ക് ചെയ്യാമോ?|Can I book a backwater trip?
+8|ഇവിടെ നീന്താമോ?|Can I swim here?
+8|തിരിച്ചു വരാൻ ബോട്ട് എപ്പോൾ ഉണ്ട്?|When is there a boat back?

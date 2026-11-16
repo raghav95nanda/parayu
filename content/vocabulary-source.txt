@@ -1,0 +1,1420 @@
+# Everyday words and short teaching examples. Fields: Malayalam | meaning | optional context.
+# @core uses explicit example sentence and translation after the meaning.
+@core
+ഞാൻ|I|ഞാൻ ഇവിടെ താമസിക്കുന്നു.|I live here.
+നീ|you (informal singular)|നീ എവിടെയാണ് താമസിക്കുന്നത്?|Where do you live?
+നിങ്ങൾ|you (polite or plural)|നിങ്ങൾ എവിടെ പോകുന്നു?|Where are you going?
+താങ്കൾ|you (respectful)|താങ്കൾ ഇവിടെ ഇരിക്കൂ.|Please sit here.
+അവൻ|he|അവൻ എന്റെ സുഹൃത്താണ്.|He is my friend.
+അവൾ|she|അവൾ ഇവിടെ ജോലി ചെയ്യുന്നു.|She works here.
+അവർ|they; he or she respectfully|അവർ നാളെ വരും.|They will come tomorrow.
+അദ്ദേഹം|he (respectful)|അദ്ദേഹം ഒരു അധ്യാപകനാണ്.|He is a teacher.
+ഞങ്ങൾ|we (excluding the listener)|ഞങ്ങൾ ഡൽഹിയിൽ നിന്നാണ്.|We are from Delhi.
+നമ്മൾ|we (including the listener)|നമ്മൾ ഒരുമിച്ച് പോകാം.|We can go together.
+നാം|we|നാം പരസ്പരം സഹായിക്കണം.|We should help each other.
+എന്റെ|my|എന്റെ പേര് രാഘവ് എന്നാണ്.|My name is Raghav.
+നിന്റെ|your (informal singular)|നിന്റെ വീട് എവിടെയാണ്?|Where is your house?
+നിങ്ങളുടെ|your (polite or plural)|നിങ്ങളുടെ ഫോൺ ഇവിടെ ഉണ്ട്.|Your phone is here.
+നമ്മുടെ|our (including the listener)|നമ്മുടെ ട്രെയിൻ വന്നു.|Our train has arrived.
+എനിക്ക്|to me; for me|എനിക്ക് വെള്ളം വേണം.|I would like water.
+എന്നെ|me (as an object)|എന്നെ ഒന്ന് സഹായിക്കാമോ?|Could you help me?
+ഇത്|this|ഇത് എനിക്ക് ഇഷ്ടമാണ്.|I like this.
+അത്|that|അത് എന്റെ ബാഗാണ്.|That is my bag.
+ഇവ|these|ഇവ നല്ല പുസ്തകങ്ങളാണ്.|These are good books.
+അവ|those|അവ എന്റെ ചെരുപ്പുകളാണ്.|Those are my shoes.
+ഈ|this (before a noun)|ഈ ബസ് കൊച്ചിയിലേക്ക് പോകുമോ?|Does this bus go to Kochi?
+ആ|that (before a noun)|ആ കട തുറന്നിട്ടുണ്ടോ?|Is that shop open?
+ഒരു|a; one (before a noun)|ഒരു ചായ തരാമോ?|Could you give me a tea?
+എന്ത്|what|നിങ്ങൾക്ക് എന്ത് വേണം?|What would you like?
+എന്താ|what (spoken)|ഇതിന്റെ പേര് എന്താ?|What is this called?
+ആര്|who|അവിടെ ആര് ഉണ്ട്?|Who is there?
+ഏത്|which|ഏത് ബസ് എടുക്കണം?|Which bus should I take?
+എവിടെ|where|സ്റ്റേഷൻ എവിടെ ആണ്?|Where is the station?
+എപ്പോൾ|when|നിങ്ങൾ എപ്പോൾ വരും?|When will you come?
+എങ്ങനെ|how|ഇത് എങ്ങനെ ഉപയോഗിക്കണം?|How should I use this?
+എന്തുകൊണ്ട്|why|കട എന്തുകൊണ്ട് അടച്ചു?|Why did the shop close?
+എത്ര|how much; how many|ഇതിന് എത്ര രൂപയാണ്?|How many rupees does this cost?
+ഇവിടെ|here|ഇവിടെ ഇരിക്കാമോ?|May I sit here?
+അവിടെ|there|അവിടെ ഒരു കട ഉണ്ട്.|There is a shop there.
+ഇങ്ങോട്ട്|towards here|ദയവായി ഇങ്ങോട്ട് വരൂ.|Please come this way.
+അങ്ങോട്ട്|towards there|അങ്ങോട്ട് പോകേണ്ട.|Do not go that way.
+ഇപ്പോൾ|now|ഞാൻ ഇപ്പോൾ വരാം.|I can come now.
+പിന്നെ|later; then|പിന്നെ കാണാം.|See you later.
+ഉടൻ|immediately|ഡോക്ടറെ ഉടൻ വിളിക്കൂ.|Call the doctor immediately.
+വീണ്ടും|again|ദയവായി വീണ്ടും പറയൂ.|Please say it again.
+ഒരുമിച്ച്|together|നമുക്ക് ഒരുമിച്ച് കഴിക്കാം.|Let us eat together.
+മാത്രം|only|എനിക്ക് വെള്ളം മാത്രം മതി.|I only need water.
+കൂടി|also; more|ഒരു ചായ കൂടി വേണം.|I would like one more tea.
+കൂടെ|with; together with|ഞാൻ നിങ്ങളുടെ കൂടെ വരാം.|I can come with you.
+വളരെ|very|ഭക്ഷണം വളരെ നല്ലതാണ്.|The food is very good.
+കുറച്ച്|a little; a few|കുറച്ച് വെള്ളം തരാമോ?|Could you give me some water?
+കൂടുതൽ|more|എനിക്ക് കൂടുതൽ സമയം വേണം.|I need more time.
+എല്ലാം|everything|എല്ലാം തയ്യാറാണ്.|Everything is ready.
+എല്ലാ|all (before a noun)|എല്ലാ ദിവസവും ഞാൻ നടക്കുന്നു.|I walk every day.
+പല|many; several|ഇവിടെ പല കടകൾ ഉണ്ട്.|There are many shops here.
+ചില|some|ചില കടകൾ ഇന്ന് അടഞ്ഞിരിക്കുന്നു.|Some shops are closed today.
+ഓരോ|each|ഓരോ കുട്ടിക്കും ഒരു പുസ്തകം ഉണ്ട്.|Each child has a book.
+മറ്റ്|other|മറ്റ് വഴികൾ ഉണ്ടോ?|Are there other routes?
+ഒന്നും|anything; nothing with a negative|എനിക്ക് ഒന്നും വേണ്ട.|I do not want anything.
+അതെ|yes|അതെ, ഞാൻ തയ്യാറാണ്.|Yes, I am ready.
+അല്ല|is not; no|ഇത് എന്റെ ബാഗ് അല്ല.|This is not my bag.
+ഇല്ല|there is not; no|ഇവിടെ വെള്ളം ഇല്ല.|There is no water here.
+ഉണ്ട്|there is; have|എന്റെ കൈയിൽ പണം ഉണ്ട്.|I have money with me.
+ആണ്|is; am; are|ഇത് ഒരു നല്ല സ്ഥലമാണ്.|This is a good place.
+ആയിരുന്നു|was; were|ഇന്നലെ മഴ ആയിരുന്നു.|It was rainy yesterday.
+വേണം|want; need|എനിക്ക് ഒരു ടിക്കറ്റ് വേണം.|I need a ticket.
+വേണ്ട|do not want; do not need|എനിക്ക് പഞ്ചസാര വേണ്ട.|I do not want sugar.
+മതി|enough|ഇത്രയും മതി.|This much is enough.
+ശരി|okay; correct|ശരി, നാളെ കാണാം.|Okay, see you tomorrow.
+നന്ദി|thank you; thanks|സഹായത്തിന് നന്ദി.|Thank you for your help.
+ക്ഷമിക്കണം|sorry; excuse me|ക്ഷമിക്കണം, എനിക്ക് മനസ്സിലായില്ല.|Sorry, I did not understand.
+ദയവായി|please|ദയവായി പതുക്കെ സംസാരിക്കൂ.|Please speak slowly.
+നമസ്കാരം|hello; greetings|നമസ്കാരം, സുഖമാണോ?|Hello, how are you?
+സ്വാഗതം|welcome|കേരളത്തിലേക്ക് സ്വാഗതം.|Welcome to Kerala.
+പക്ഷേ|but|എനിക്ക് പോകണം, പക്ഷേ സമയമില്ല.|I need to go, but there is no time.
+അല്ലെങ്കിൽ|or; otherwise|ചായ അല്ലെങ്കിൽ കാപ്പി തരാമോ?|Could you give me tea or coffee?
+കാരണം|reason; because|അതിന്റെ കാരണം എനിക്ക് അറിയില്ല.|I do not know the reason for that.
+എന്നാൽ|however; if so|എന്നാൽ നമുക്ക് നാളെ പോകാം.|In that case, let us go tomorrow.
+എങ്കിൽ|if|മഴ ഉണ്ടെങ്കിൽ നമുക്ക് കാത്തിരിക്കാം.|If it rains, we can wait.
+അതുകൊണ്ട്|therefore; so|മഴയാണ്, അതുകൊണ്ട് ഞാൻ കാത്തിരിക്കുന്നു.|It is raining, so I am waiting.
+എന്ന്|that; quotative marker|അവൻ വരും എന്ന് പറഞ്ഞു.|He said that he would come.
+എന്ന|called; named|അനു എന്ന കുട്ടി ഇവിടെ ഉണ്ട്.|A child called Anu is here.
+തന്നെ|the very same; exactly|ഇത് തന്നെയാണ് എന്റെ ബാഗ്.|This is exactly my bag.
+പോലെ|like; as|നിങ്ങളെ പോലെ എനിക്കും യാത്ര ഇഷ്ടമാണ്.|Like you, I also like travelling.
+നിന്ന്|from|ഞാൻ ഡൽഹിയിൽ നിന്ന് വരുന്നു.|I come from Delhi.
+വരെ|until; up to|അഞ്ച് മണി വരെ കട തുറന്നിരിക്കും.|The shop will be open until five o’clock.
+കൊണ്ട്|with; using|ഈ താക്കോൽ കൊണ്ട് വാതിൽ തുറക്കാം.|You can open the door with this key.
+ശേഷം|after|ഭക്ഷണത്തിന് ശേഷം ഞാൻ വരാം.|I can come after the meal.
+മുമ്പ്|before|പോകുന്നതിന് മുമ്പ് വിളിക്കൂ.|Call before leaving.
+ഇടത്|left|ഇടത് വശത്ത് ഒരു കട ഉണ്ട്.|There is a shop on the left side.
+വലത്|right|വലത് വശത്ത് തിരിയൂ.|Turn on the right side.
+മുകളിൽ|above; upstairs|മുകളിൽ ഒരു മുറി ഉണ്ട്.|There is a room upstairs.
+താഴെ|below; downstairs|ഞാൻ താഴെ കാത്തിരിക്കുന്നു.|I am waiting downstairs.
+അകത്ത്|inside|അകത്ത് വരാമോ?|May I come inside?
+പുറത്ത്|outside|പുറത്ത് മഴ പെയ്യുന്നു.|It is raining outside.
+അടുത്ത്|near|അടുത്ത് ഒരു ആശുപത്രി ഉണ്ട്.|There is a hospital nearby.
+ദൂരെ|far away|സ്റ്റേഷൻ ദൂരെ ആണ്.|The station is far away.
+മുന്നിൽ|in front|കടയുടെ മുന്നിൽ നിൽക്കൂ.|Stand in front of the shop.
+പിന്നിൽ|behind|വീടിന്റെ പിന്നിൽ ഒരു മരം ഉണ്ട്.|There is a tree behind the house.
+
+@verbs
+പോകുക|go
+വരുക|come
+ചെയ്യുക|do
+പറയുക|say; tell
+കേൾക്കുക|hear; listen
+കാണുക|see
+നോക്കുക|look
+കഴിക്കുക|eat
+കുടിക്കുക|drink
+വാങ്ങുക|buy
+കൊടുക്കുക|give
+നൽകുക|give; provide
+എടുക്കുക|take
+വെക്കുക|put; keep
+ഇരിക്കുക|sit
+നിൽക്കുക|stand
+നടക്കുക|walk
+ഓടുക|run
+കിടക്കുക|lie down
+ഉറങ്ങുക|sleep
+ഉണരുക|wake up
+എഴുന്നേൽക്കുക|get up
+വായിക്കുക|read
+എഴുതുക|write
+പഠിക്കുക|study; learn
+പഠിപ്പിക്കുക|teach
+സംസാരിക്കുക|speak
+ചോദിക്കുക|ask
+വിളിക്കുക|call
+ചിരിക്കുക|laugh; smile
+കരയുക|cry
+ചിന്തിക്കുക|think
+അറിയുക|know
+മനസ്സിലാക്കുക|understand
+ഓർക്കുക|remember
+മറക്കുക|forget
+കാത്തിരിക്കുക|wait
+തുറക്കുക|open
+അടയ്ക്കുക|close
+തുടങ്ങുക|begin
+നിർത്തുക|stop
+തീരുക|finish; come to an end
+തീർക്കുക|complete
+തിരിയുക|turn
+മടങ്ങുക|return
+കയറുക|enter; climb
+ഇറങ്ങുക|get down; get off
+കടക്കുക|cross
+കണ്ടെത്തുക|find
+തിരയുക|search
+അയയ്ക്കുക|send
+സ്വീകരിക്കുക|receive; accept
+വിടുക|leave; let go
+പിടിക്കുക|hold; catch
+തൊടുക|touch
+മാറ്റുക|change; move
+മാറുക|change; move aside
+സഹായിക്കുക|help
+ഉപയോഗിക്കുക|use
+വൃത്തിയാക്കുക|clean
+കഴുകുക|wash
+കുളിക്കുക|bathe
+പാചകംചെയ്യുക|cook
+മുറിക്കുക|cut
+കലക്കുക|stir; mix
+തിളപ്പിക്കുക|boil
+വറുക്കുക|fry; roast
+ചുടുക|bake; roast
+നിറയ്ക്കുക|fill
+ഒഴിക്കുക|pour
+തൂക്കുക|weigh; hang
+അളക്കുക|measure
+തിരഞ്ഞെടുക്കുക|choose
+ധരിക്കുക|wear
+ഊരുക|take off; remove
+പൊതിയുക|wrap
+കെട്ടുക|tie; build
+അഴിക്കുക|untie
+വലിക്കുക|pull
+തള്ളുക|push
+ഉയർത്തുക|lift; raise
+താഴ്ത്തുക|lower
+കൊണ്ടുവരുക|bring
+കൊണ്ടുപോകുക|take along
+വാങ്ങിക്കൊടുക്കുക|buy for someone
+മടക്കുക|fold
+നീട്ടുക|extend
+ചുരുക്കുക|shorten; reduce
+കുറയ്ക്കുക|reduce
+കൂട്ടുക|increase; add
+എണ്ണുക|count
+സൂക്ഷിക്കുക|keep safe; take care
+രക്ഷിക്കുക|save; protect
+പരിശോധിക്കുക|check; examine
+നന്നാക്കുക|repair
+കേടാക്കുക|damage
+പൂർത്തിയാക്കുക|finish; complete
+തുടരുക|continue
+ശ്രമിക്കുക|try
+കളിക്കുക|play
+പാടുക|sing
+നൃത്തംചെയ്യുക|dance
+വരയ്ക്കുക|draw
+നീന്തുക|swim
+പറക്കുക|fly
+യാത്രചെയ്യുക|travel
+താമസിക്കുക|stay; live
+സന്ദർശിക്കുക|visit
+ജോലിചെയ്യുക|work
+വിശ്രമിക്കുക|rest
+പ്രാർത്ഥിക്കുക|pray
+വിശ്വസിക്കുക|believe; trust
+സമ്മതിക്കുക|agree
+നിരസിക്കുക|refuse
+ക്ഷമിക്കുക|forgive
+നന്ദിപറയുക|thank
+ആശംസിക്കുക|wish someone well
+പരിചയപ്പെടുക|get acquainted
+പരിചയപ്പെടുത്തുക|introduce
+വിവരിക്കുക|describe; explain
+അന്വേഷിക്കുക|inquire
+അറിയിക്കുക|inform
+തീരുമാനിക്കുക|decide
+ആസൂത്രണംചെയ്യുക|plan
+കണ്ടുമുട്ടുക|meet
+ചേരുക|join
+പങ്കെടുക്കുക|participate
+അനുവദിക്കുക|allow
+ഒപ്പിടുക|sign
+അച്ചടിക്കുക|print
+പകർത്തുക|copy
+അയക്കുക|send
+സംരക്ഷിക്കുക|protect; preserve
+പരിഹരിക്കുക|solve
+സംഭവിക്കുക|happen
+വളരുക|grow
+നടുക|plant
+നനയ്ക്കുക|water
+
+@describing
+നല്ല|good|പുസ്തകം|book
+ചീത്ത|bad|ശീലം|habit
+മോശം|bad; poor|കാലാവസ്ഥ|weather
+പുതിയ|new|വീട്|house
+പഴയ|old|കാർ|car
+വലിയ|big|മുറി|room
+ചെറിയ|small|ബാഗ്|bag
+വലുത്|big (as a noun or predicate)|ഇത് വളരെ വലുത് ആണ്.|This is very big.
+ചെറുത്|small (as a noun or predicate)|എനിക്ക് ചെറുത് മതി.|The small one is enough for me.
+നീണ്ട|long|വഴി|road
+കുറിയ|short|കഥ|story
+ഉയർന്ന|high|വില|price
+താഴ്ന്ന|low|ശബ്ദം|sound
+കൂടിയ|increased; higher|നിരക്ക്|rate
+കുറഞ്ഞ|reduced; lower|വില|price
+അടുത്ത|next; nearby|സ്റ്റേഷൻ|station
+അകലെയുള്ള|distant|ഗ്രാമം|village
+വേഗമുള്ള|fast|ട്രെയിൻ|train
+പതുക്കെയുള്ള|slow|നടത്തം|walk
+എളുപ്പമുള്ള|easy|ചോദ്യം|question
+ബുദ്ധിമുട്ടുള്ള|difficult|ജോലി|task
+ലളിതമായ|simple|ഉത്തരം|answer
+കഠിനമായ|hard; difficult|പരീക്ഷ|exam
+സുന്ദരമായ|beautiful|സ്ഥലം|place
+മനോഹരമായ|lovely; beautiful|കാഴ്ച|view
+വൃത്തിയുള്ള|clean|മുറി|room
+വൃത്തികെട്ട|dirty|വസ്ത്രം|garment
+ചൂടുള്ള|hot|ചായ|tea
+തണുത്ത|cold|വെള്ളം|water
+ചൂട്|heat; hot|ചായയ്ക്ക് ചൂട് ഉണ്ട്.|The tea is hot.
+തണുപ്പ്|coldness; cold|ഇവിടെ നല്ല തണുപ്പ് ഉണ്ട്.|It is quite cold here.
+പച്ച|green; raw|മാങ്ങ|mango
+ചുവന്ന|red|പൂവ്|flower
+നീല|blue|ഷർട്ട്|shirt
+മഞ്ഞ|yellow|ബാഗ്|bag
+കറുത്ത|black|കുട|umbrella
+വെളുത്ത|white|മുണ്ട്|mundu
+തവിട്ടുനിറമുള്ള|brown|ബാഗ്|bag
+ചാരനിറമുള്ള|grey|കാർ|car
+പിങ്ക്|pink|പൂവ്|flower
+ഓറഞ്ച്|orange (colour)|വസ്ത്രം|garment
+നിറമുള്ള|colourful|തുണി|cloth
+നിറമില്ലാത്ത|colourless|ദ്രാവകം|liquid
+മധുരമുള്ള|sweet|പായസം|dessert
+പുളിയുള്ള|sour|തൈര്|curd
+ഉപ്പുള്ള|salty|ഭക്ഷണം|food
+എരിവുള്ള|spicy|കറി|curry
+കയ്പുള്ള|bitter|മരുന്ന്|medicine
+രുചിയുള്ള|tasty|ഭക്ഷണം|food
+മൃദുവായ|soft|തലയണ|pillow
+കടുപ്പമുള്ള|hard; firm|തടി|wood
+നനഞ്ഞ|wet|തുണി|cloth
+ഉണങ്ങിയ|dry|ഇല|leaf
+ഭാരമുള്ള|heavy|ബാഗ്|bag
+ഭാരമില്ലാത്ത|lightweight|പെട്ടി|box
+കട്ടിയുള്ള|thick|പുസ്തകം|book
+കനംകുറഞ്ഞ|thin|തുണി|cloth
+പൂർണ്ണമായ|complete|വിവരം|information
+ശൂന്യമായ|empty|മുറി|room
+നിറഞ്ഞ|full|ബസ്|bus
+തുറന്ന|open|വാതിൽ|door
+അടഞ്ഞ|closed|കട|shop
+ശാന്തമായ|quiet; peaceful|സ്ഥലം|place
+തിരക്കുള്ള|busy; crowded|വഴി|road
+സുരക്ഷിതമായ|safe|സ്ഥലം|place
+അപകടകരമായ|dangerous|വളവ്|bend
+പ്രധാനപ്പെട്ട|important|വിവരം|information
+പ്രത്യേക|special|പരിപാടി|event
+സാധാരണ|ordinary; usual|ദിവസം|day
+വ്യത്യസ്ത|different|അനുഭവം|experience
+ഒരേ|same|പേര്|name
+മറ്റൊരു|another|വഴി|route
+സൗജന്യ|free of charge|സേവനം|service
+വിലകൂടിയ|expensive|ഹോട്ടൽ|hotel
+വിലകുറഞ്ഞ|inexpensive|മുറി|room
+പുതുമയുള്ള|fresh; novel|ആശയം|idea
+ആരോഗ്യമുള്ള|healthy|കുട്ടി|child
+അസുഖമുള്ള|unwell|ആൾ|person
+സന്തോഷമുള്ള|happy|കുടുംബം|family
+സങ്കടമുള്ള|sad|കഥ|story
+സ്നേഹമുള്ള|loving|അമ്മ|mother
+ദയയുള്ള|kind|മനുഷ്യൻ|person
+സത്യസന്ധമായ|honest|മറുപടി|answer
+കൃത്യമായ|accurate|വിവരം|information
+വൈകിയ|late|യാത്ര|journey
+നേരത്തെയുള്ള|early|ട്രെയിൻ|train
+സ്ഥിരമായ|permanent; steady|ജോലി|job
+താൽക്കാലിക|temporary|താമസം|accommodation
+പ്രാദേശിക|local|ഭക്ഷണം|food
+വിദേശ|foreign|ഭാഷ|language
+ദേശീയ|national|പാത|highway
+സ്വകാര്യ|private|വാഹനം|vehicle
+പൊതു|public|സ്ഥലം|place
+പരമ്പരാഗത|traditional|വസ്ത്രം|garment
+ആധുനിക|modern|കെട്ടിടം|building
+യഥാർത്ഥ|real|കാരണം|reason
+വ്യാജ|fake|വാർത്ത|news
+അടിയന്തര|urgent|സഹായം|help
+
+@food
+വെള്ളം|water
+ചായ|tea
+കാപ്പി|coffee
+പാൽ|milk
+തൈര്|curd; yoghurt
+മോര്|buttermilk
+വെണ്ണ|butter
+നെയ്യ്|ghee
+ചോറ്|cooked rice
+അരി|uncooked rice
+കഞ്ഞി|rice porridge
+ദോശ|dosa
+ഇഡലി|idli
+അപ്പം|appam
+പുട്ട്|puttu
+ഇടിയപ്പം|string hoppers
+ചപ്പാത്തി|chapati
+പൊറോട്ട|parotta
+പൂരി|puri
+ഉപ്പുമാവ്|upma
+വട|vada
+പഴംപൊരി|banana fritters
+സമോസ|samosa
+ബിരിയാണി|biryani
+ഊണ്|a rice meal
+ഭക്ഷണം|food
+പ്രാതൽ|breakfast
+ഉച്ചഭക്ഷണം|lunch
+അത്താഴം|dinner
+പലഹാരം|a snack
+കറി|curry
+സാമ്പാർ|sambar
+രസം|rasam
+അവിയൽ|avial
+തോരൻ|thoran
+ഓലൻ|olan
+പച്ചടി|pachadi
+അച്ചാർ|pickle
+പപ്പടം|pappadam
+മീൻ|fish
+കോഴി|chicken
+മുട്ട|egg
+ഇറച്ചി|meat
+ചെമ്മീൻ|prawns
+ഞണ്ട്|crab
+കക്ക|clams
+പച്ചക്കറി|vegetables
+ഉരുളക്കിഴങ്ങ്|potato
+തക്കാളി|tomato
+ഉള്ളി|onion
+ചെറിയുള്ളി|shallots
+സവാള|large onion
+വെളുത്തുള്ളി|garlic
+ഇഞ്ചി|ginger
+മുളക്|chilli
+പച്ചമുളക്|green chilli
+കുരുമുളക്|black pepper
+വെണ്ടയ്ക്ക|okra
+വഴുതന|aubergine
+മത്തങ്ങ|pumpkin
+കുമ്പളങ്ങ|ash gourd
+പാവയ്ക്ക|bitter gourd
+പടവലങ്ങ|snake gourd
+കോവയ്ക്ക|ivy gourd
+മുരിങ്ങയ്ക്ക|drumstick vegetable
+കാരറ്റ്|carrot
+ബീറ്റ്റൂട്ട്|beetroot
+കാബേജ്|cabbage
+കോളിഫ്ലവർ|cauliflower
+ചീര|leafy greens
+പയർ|beans
+കടല|chickpeas
+പരിപ്പ്|lentils
+തേങ്ങ|coconut
+തേങ്ങാപ്പാൽ|coconut milk
+കരിക്ക്|tender coconut
+എണ്ണ|oil
+വെളിച്ചെണ്ണ|coconut oil
+ഉപ്പ്|salt
+പഞ്ചസാര|sugar
+ശർക്കര|jaggery
+തേൻ|honey
+മാവ്|flour; batter
+ഗോതമ്പ്|wheat
+റവ|semolina
+പഴം|banana; fruit
+മാങ്ങ|mango
+വാഴപ്പഴം|banana
+ആപ്പിൾ|apple
+മുന്തിരി|grapes
+മാതളം|pomegranate
+പേരയ്ക്ക|guava
+പപ്പായ|papaya
+കൈതച്ചക്ക|pineapple
+തണ്ണിമത്തൻ|watermelon
+നാരങ്ങ|lemon; lime
+ചക്ക|jackfruit
+ഈന്തപ്പഴം|dates
+അണ്ടിപ്പരിപ്പ്|cashew nuts
+നിലക്കടല|peanuts
+ബദാം|almonds
+ഉണക്കമുന്തിരി|raisins
+പായസം|payasam
+ഐസ്ക്രീം|ice cream
+മിഠായി|sweets
+ചോക്ലേറ്റ്|chocolate
+ബിസ്കറ്റ്|biscuits
+കേക്ക്|cake
+റൊട്ടി|bread
+ജ്യൂസ്|juice
+സൂപ്പ്|soup
+സാലഡ്|salad
+ജീരകം|cumin
+കടുക്|mustard seeds
+മഞ്ഞൾ|turmeric
+മല്ലി|coriander
+കറിവേപ്പില|curry leaves
+പുതിന|mint
+ഏലക്ക|cardamom
+ഗ്രാമ്പൂ|cloves
+കറുവപ്പട്ട|cinnamon
+പുളി|tamarind
+
+@home
+വീട്|house
+മുറി|room
+വാതിൽ|door
+ജനൽ|window
+ചുമർ|wall
+മേൽക്കൂര|roof
+തറ|floor
+പടി|step
+പടിക്കൽ|doorstep
+മുറ്റം|courtyard
+വരാന്ത|veranda
+അടുക്കള|kitchen
+കുളിമുറി|bathroom
+കക്കൂസ്|toilet
+കിടപ്പുമുറി|bedroom
+സ്വീകരണമുറി|living room
+മേശ|table
+കസേര|chair
+കട്ടിൽ|bed
+മെത്ത|mattress
+തലയണ|pillow
+പുതപ്പ്|blanket
+വിരിപ്പ്|bedspread
+പായ|mat
+പരവതാനി|carpet
+അലമാര|cupboard
+സോഫ|sofa
+കണ്ണാടി|mirror
+തിരശ്ശീല|curtain
+വിളക്ക്|lamp
+ബൾബ്|light bulb
+മെഴുകുതിരി|candle
+വിശറി|hand fan
+ഫാൻ|electric fan
+സ്വിച്ച്|switch
+പ്ലഗ്|plug
+വയർ|electrical wire
+താക്കോൽ|key
+പൂട്ട്|lock
+മണി|bell
+ക്ലോക്ക്|clock
+കലണ്ടർ|calendar
+ഫ്രിഡ്ജ്|refrigerator
+അടുപ്പ്|stove
+ഓവൻ|oven
+മിക്സി|mixer grinder
+കുക്കർ|pressure cooker
+പാത്രം|vessel
+ചട്ടി|cooking pot
+ചീനച്ചട്ടി|wok
+കലശം|water pot
+തളിക|plate
+കപ്പ്|cup
+ഗ്ലാസ്|glass
+സ്പൂൺ|spoon
+കരണ്ടി|ladle
+കത്തി|knife
+മുള്‍ക്കരണ്ടി|fork
+ബക്കറ്റ്|bucket
+കുടം|water pitcher
+കുപ്പി|bottle
+പെട്ടി|box
+കൂട|basket
+ചാക്ക്|sack
+സഞ്ചി|carry bag
+ചൂല്|broom
+തുണി|cloth
+തുടപ്പ്|wiping cloth
+സോപ്പ്|soap
+സോപ്പുപൊടി|washing powder
+ചവറ്റുകുട്ട|waste bin
+ചവറ്|rubbish
+മാലിന്യം|waste
+പൈപ്പ്|pipe
+ടാപ്പ്|tap
+ടാങ്ക്|tank
+പമ്പ്|pump
+കിണർ|well
+കമ്പി|metal rod
+ആണി|nail
+ചുറ്റിക|hammer
+കയർ|rope
+പശ|glue
+കത്രിക|scissors
+പേപ്പർ|paper
+പ്ലാസ്റ്റിക്|plastic
+തടി|wood
+ഇഷ്ടിക|brick
+സിമന്റ്|cement
+മണൽ|sand
+കല്ല്|stone
+
+@people
+അമ്മ|mother|family
+അച്ഛൻ|father|family
+അപ്പൻ|father|family
+അമ്മൂമ്മ|grandmother|family
+അപ്പൂപ്പൻ|grandfather|family
+മുത്തശ്ശി|grandmother|family
+മുത്തച്ഛൻ|grandfather|family
+മകൻ|son|family
+മകൾ|daughter|family
+കുഞ്ഞ്|baby
+കുട്ടി|child
+ആൺകുട്ടി|boy
+പെൺകുട്ടി|girl
+ചേട്ടൻ|elder brother|family
+ചേച്ചി|elder sister|family
+അനിയൻ|younger brother|family
+അനിയത്തി|younger sister|family
+സഹോദരൻ|brother|family
+സഹോദരി|sister|family
+ഭാര്യ|wife|family
+ഭർത്താവ്|husband|family
+ദമ്പതികൾ|married couple
+മാതാപിതാക്കൾ|parents|family
+അമ്മാവൻ|uncle|family
+അമ്മായി|aunt|family
+മരുമകൻ|son-in-law; nephew|family
+മരുമകൾ|daughter-in-law; niece|family
+ബന്ധു|relative
+സുഹൃത്ത്|friend
+കൂട്ടുകാരൻ|male friend
+കൂട്ടുകാരി|female friend
+അയൽക്കാരൻ|male neighbour
+അയൽക്കാരി|female neighbour
+ആൾ|person
+മനുഷ്യൻ|human being
+സ്ത്രീ|woman
+പുരുഷൻ|man
+യുവാവ്|young man
+യുവതി|young woman
+വൃദ്ധൻ|elderly man
+വൃദ്ധ|elderly woman
+അതിഥി|guest
+നാട്ടുകാരൻ|local man
+വിനോദസഞ്ചാരി|tourist
+യാത്രക്കാരൻ|traveller; passenger
+ഉടമ|owner
+കടക്കാരൻ|shopkeeper
+ജോലിക്കാരൻ|male worker
+ജോലിക്കാരി|female worker
+തൊഴിലാളി|worker
+കർഷകൻ|farmer
+അധ്യാപകൻ|male teacher
+അധ്യാപിക|female teacher
+ടീച്ചർ|teacher
+വിദ്യാർത്ഥി|student
+ഡോക്ടർ|doctor
+നഴ്സ്|nurse
+ഡ്രൈവർ|driver
+പോലീസുകാരൻ|police officer
+അഭിഭാഷകൻ|lawyer
+എൻജിനീയർ|engineer
+പാചകക്കാരൻ|cook
+വെയിറ്റർ|waiter
+തയ്യൽക്കാരൻ|tailor
+ക്ഷുരകൻ|barber
+കച്ചവടക്കാരൻ|trader
+ജീവനക്കാരൻ|employee
+മാനേജർ|manager
+ഉദ്യോഗസ്ഥൻ|official
+നേതാവ്|leader
+മന്ത്രി|minister
+മേയർ|mayor
+എഴുത്തുകാരൻ|writer
+കവി|poet
+ഗായകൻ|male singer
+ഗായിക|female singer
+നടൻ|male actor
+നടി|female actor
+കലാകാരൻ|artist
+കളിക്കാരൻ|player
+സന്നദ്ധപ്രവർത്തകൻ|volunteer
+സുരക്ഷാജീവനക്കാരൻ|security guard
+
+@body
+ശരീരം|body
+തല|head
+മുടി|hair
+മുഖം|face
+നെറ്റി|forehead
+കണ്ണ്|eye
+പുരികം|eyebrow
+കൺപീലി|eyelash
+ചെവി|ear
+മൂക്ക്|nose
+കവിൾ|cheek
+വായ|mouth
+ചുണ്ട്|lip
+നാവ്|tongue
+പല്ല്|tooth
+താടി|chin; beard
+കഴുത്ത്|neck
+തൊണ്ട|throat
+തോൾ|shoulder
+കൈ|hand; arm
+കൈപ്പത്തി|palm
+വിരൽ|finger
+തള്ളവിരൽ|thumb
+നഖം|nail
+കൈമുട്ട്|elbow
+നെഞ്ച്|chest
+വയറ്|stomach; belly
+പുറം|back
+അര|waist
+കാൽ|leg; foot
+മുട്ട്|knee
+കണങ്കാൽ|ankle
+കുതികാൽ|heel
+കാലടി|sole; footprint
+കാല്വിരൽ|toe
+ഹൃദയം|heart
+ശ്വാസകോശം|lung
+കരൾ|liver
+വൃക്ക|kidney
+തലച്ചോർ|brain
+രക്തം|blood
+അസ്ഥി|bone
+പേശി|muscle
+തൊലി|skin
+ഞരമ്പ്|nerve; vein
+ശ്വാസം|breath
+ശബ്ദം|voice; sound
+ആരോഗ്യം|health|ആരോഗ്യം വളരെ പ്രധാനമാണ്.|Health is very important.
+പനി|fever|എനിക്ക് പനി ഉണ്ട്.|I have a fever.
+ചുമ|cough|എനിക്ക് ചുമ ഉണ്ട്.|I have a cough.
+ജലദോഷം|cold (illness)|എനിക്ക് ജലദോഷം ഉണ്ട്.|I have a cold.
+വേദന|pain|എനിക്ക് ഇവിടെ വേദന ഉണ്ട്.|I have pain here.
+മുറിവ്|wound|കൈയിൽ ഒരു മുറിവ് ഉണ്ട്.|There is a wound on the hand.
+വീക്കം|swelling|കാലിൽ വീക്കം ഉണ്ട്.|There is swelling in the leg.
+ക്ഷീണം|tiredness|എനിക്ക് ക്ഷീണം തോന്നുന്നു.|I feel tired.
+വിശപ്പ്|hunger|എനിക്ക് വിശപ്പ് ഉണ്ട്.|I am hungry.
+ദാഹം|thirst|എനിക്ക് ദാഹം ഉണ്ട്.|I am thirsty.
+മരുന്ന്|medicine|ഈ മരുന്ന് എപ്പോൾ കഴിക്കണം?|When should I take this medicine?
+ഗുളിക|tablet; pill|ഈ ഗുളിക ഭക്ഷണത്തിന് ശേഷം കഴിക്കണം.|This tablet should be taken after food.
+ക്രീം|cream|ഈ ക്രീം എങ്ങനെ ഉപയോഗിക്കണം?|How should I use this cream?
+ഇഞ്ചക്ഷൻ|injection|ഇഞ്ചക്ഷൻ വേണമോ?|Is an injection needed?
+ബാൻഡേജ്|bandage|ഒരു ബാൻഡേജ് തരാമോ?|Could you give me a bandage?
+അലർജി|allergy|എനിക്ക് കടല അലർജി ഉണ്ട്.|I have a chickpea allergy.
+അണുബാധ|infection|മുറിവിൽ അണുബാധ ഉണ്ട്.|There is an infection in the wound.
+രോഗം|disease; illness|ഈ രോഗം ചികിത്സിക്കാം.|This illness can be treated.
+ചികിത്സ|treatment|എനിക്ക് ചികിത്സ വേണം.|I need treatment.
+
+@places
+സ്ഥലം|place
+നാട്|home region; country
+രാജ്യം|country
+സംസ്ഥാനം|state
+ജില്ല|district
+നഗരം|city
+പട്ടണം|town
+ഗ്രാമം|village
+തെരുവ്|street
+വഴി|path; route
+റോഡ്|road
+പാത|road; path
+ദേശീയപാത|national highway
+ജങ്ഷൻ|junction
+വളവ്|bend; turn
+കവല|crossroads
+പാലം|bridge
+കട|shop
+കടവീഥി|shopping street
+ചന്ത|market
+മാർക്കറ്റ്|market
+സൂപ്പർമാർക്കറ്റ്|supermarket
+ബേക്കറി|bakery
+ഭക്ഷണശാല|restaurant
+ഹോട്ടൽ|hotel; restaurant
+റസ്റ്റോറന്റ്|restaurant
+ചായക്കട|tea shop
+ബാങ്ക്|bank
+തപാലാപ്പീസ്|post office
+ഓഫീസ്|office
+ആശുപത്രി|hospital
+ക്ലിനിക്ക്|clinic
+ഫാർമസി|pharmacy
+മരുന്നുകട|pharmacy
+പോലീസ്സ്റ്റേഷൻ|police station
+സ്റ്റേഷൻ|station
+വിമാനത്താവളം|airport
+തുറമുഖം|harbour
+കടവ്|ferry landing
+ബസ്സ്റ്റാൻഡ്|bus stand
+സ്കൂൾ|school
+കോളേജ്|college
+സർവകലാശാല|university
+ലൈബ്രറി|library
+വായനശാല|reading room; library
+പാർക്ക്|park
+പൂന്തോട്ടം|flower garden
+കളിസ്ഥലം|playground
+സ്റ്റേഡിയം|stadium
+സിനിമാശാല|cinema hall
+തിയേറ്റർ|theatre
+മ്യൂസിയം|museum
+ക്ഷേത്രം|temple
+അമ്പലം|temple
+പള്ളി|church; mosque
+മസ്ജിദ്|mosque
+ബീച്ച്|beach
+കടൽത്തീരം|seashore
+തടാകം|lake
+കായൽ|backwater lake
+പുഴ|river
+നദി|river
+വെള്ളച്ചാട്ടം|waterfall
+മല|hill; mountain
+കാട്|forest
+വനം|forest
+ഗുഹ|cave
+ദ്വീപ്|island
+ഹോംസ്റ്റേ|homestay
+റിസോർട്ട്|resort
+ലോഡ്ജ്|lodge
+റിസപ്ഷൻ|reception desk
+കൗണ്ടർ|counter
+പ്രവേശനം|entrance; entry
+പുറത്തിറങ്ങൽ|exit; going out
+ലിഫ്റ്റ്|lift; elevator
+പടിക്കെട്ട്|staircase
+ടെറസ്|terrace
+ബാൽക്കണി|balcony
+ഗേറ്റ്|gate
+വേലി|fence
+കെട്ടിടം|building
+വിലാസം|address
+പഞ്ചായത്ത്|village council
+മുനിസിപ്പാലിറ്റി|municipality
+
+@travel
+യാത്ര|journey
+വിനോദയാത്ര|excursion
+വാഹനം|vehicle
+വണ്ടി|vehicle
+കാർ|car
+ബസ്|bus
+ട്രെയിൻ|train
+ഓട്ടോ|auto-rickshaw
+ടാക്സി|taxi
+ജീപ്പ്|jeep
+വാൻ|van
+ലോറി|lorry
+ട്രക്ക്|truck
+ബൈക്ക്|motorbike
+സ്കൂട്ടർ|scooter
+സൈക്കിൾ|bicycle
+വിമാനം|aeroplane
+ഹെലികോപ്റ്റർ|helicopter
+കപ്പൽ|ship
+ബോട്ട്|boat
+വള്ളം|small boat
+തോണി|canoe
+ഫെറി|ferry
+ഹൗസ്ബോട്ട്|houseboat
+ടിക്കറ്റ്|ticket
+പാസ്|pass
+പാസ്പോർട്ട്|passport
+വിസ|visa
+ബോർഡിങ്പാസ്|boarding pass
+ബാഗ്|bag
+സ്യൂട്ട്കേസ്|suitcase
+ലഗേജ്|luggage
+ബാക്ക്പാക്ക്|backpack
+സീറ്റ്|seat
+ബെർത്ത്|train berth
+കമ്പാർട്ട്മെന്റ്|compartment
+പ്ലാറ്റ്ഫോം|platform
+റിസർവേഷൻ|reservation
+ബുക്കിങ്|booking
+യാത്രാപദ്ധതി|itinerary
+മാപ്പ്|map
+ദിശ|direction
+ദൂരം|distance
+കിലോമീറ്റർ|kilometre
+മീറ്റർ|metre
+വേഗത|speed
+ഇന്ധനം|fuel
+പെട്രോൾ|petrol
+ഡീസൽ|diesel
+ടയർ|tyre
+ബ്രേക്ക്|brake
+സ്റ്റിയറിങ്|steering wheel
+ഹോൺ|horn
+സിഗ്നൽ|signal
+ലൈറ്റ്|light
+ഹെൽമെറ്റ്|helmet
+ലൈസൻസ്|licence
+പാർക്കിങ്|parking
+ടോൾ|toll
+നിരക്ക്|rate; fare
+കൂലി|fare; wage
+വാടക|rent; hire charge
+ഗതാഗതം|traffic; transport
+തിരക്ക്|crowd; congestion
+വളയം|ring; circle
+ചക്രം|wheel
+അപകടം|accident
+സഹായം|help
+അനുമതി|permission
+തിരിച്ചറിയൽ|identification
+
+@nature
+പ്രകൃതി|nature
+ആകാശം|sky
+സൂര്യൻ|sun
+ചന്ദ്രൻ|moon
+നക്ഷത്രം|star
+മേഘം|cloud
+മഴ|rain
+കാറ്റ്|wind|there
+കൊടുങ്കാറ്റ്|storm|there
+ഇടി|thunder|there
+മിന്നൽ|lightning
+മഞ്ഞ്|mist; snow
+വെയിൽ|sunshine|there
+നിഴൽ|shadow
+മഴവില്ല്|rainbow
+കാലാവസ്ഥ|weather|കാലാവസ്ഥ ഇന്ന് നല്ലതാണ്.|The weather is good today.
+ഋതു|season|ഇത് മഴയുടെ ഋതു ആണ്.|This is the rainy season.
+വേനൽ|summer|വേനൽ കാലത്ത് ഇവിടെ ചൂടാണ്.|It is hot here in summer.
+മഴക്കാലം|rainy season|മഴക്കാലം എനിക്ക് ഇഷ്ടമാണ്.|I like the rainy season.
+മഞ്ഞുകാലം|winter|മഞ്ഞുകാലം ഇവിടെ തണുപ്പാണ്.|Winter is cold here.
+വസന്തം|spring|വസന്തം വന്നാൽ പൂക്കൾ വിരിയും.|Flowers bloom when spring comes.
+പുലരി|dawn|പുലരി മനോഹരമാണ്.|Dawn is beautiful.
+സന്ധ്യ|dusk|സന്ധ്യ സമയത്ത് ഞാൻ നടക്കും.|I walk at dusk.
+മണ്ണ്|soil
+പാറ|rock
+ചെളി|mud
+പൊടി|dust
+ഭൂമി|earth; land
+ഭൂമികുലുക്കം|earthquake
+കടൽ|sea
+സമുദ്രം|ocean
+തിര|wave
+തീരം|shore
+ഉറവ|spring; water source
+തോട്|stream
+കുളം|pond
+അരുവി|brook
+കുന്ന്|hill
+മലനിര|mountain range
+താഴ്വര|valley
+പാടം|paddy field
+വയൽ|cultivated field
+തോട്ടം|garden; plantation
+കൃഷി|agriculture|കൃഷി നമ്മുടെ ജീവിതത്തിൽ പ്രധാനമാണ്.|Agriculture is important in our lives.
+മരം|tree
+ചെടി|plant
+ഇല|leaf
+പൂവ്|flower
+കായ്|unripe fruit
+വിത്ത്|seed
+വേര്|root
+കൊമ്പ്|branch
+തണ്ട്|stem
+മൊട്ട്|bud
+പുല്ല്|grass
+മുള|bamboo
+വാഴ|banana plant
+തെങ്ങ്|coconut palm
+മാവ്|mango tree
+പ്ലാവ്|jackfruit tree
+റബ്ബർ|rubber tree
+കാപ്പിച്ചെടി|coffee plant
+തേയില|tea leaves
+റോസ്|rose
+മുല്ല|jasmine
+താമര|lotus
+ചെമ്പരത്തി|hibiscus
+തുളസി|holy basil
+ഓക്സിജൻ|oxygen|there
+വായു|air|there
+വെളിച്ചം|light|there
+ഇരുട്ട്|darkness|there
+തീ|fire
+പുക|smoke
+ചാരം|ash
+
+@animals
+മൃഗം|animal
+പക്ഷി|bird
+പശു|cow
+കാള|bull
+കിടാവ്|calf
+എരുമ|buffalo
+ആട്|goat
+ചെമ്മരിയാട്|sheep
+നായ|dog
+പൂച്ച|cat
+കുതിര|horse
+കഴുത|donkey
+പന്നി|pig
+മുയൽ|rabbit
+എലി|rat; mouse
+അണ്ണാൻ|squirrel
+കുരങ്ങ്|monkey
+ആന|elephant
+മാൻ|deer
+കടുവ|tiger
+സിംഹം|lion
+പുലി|leopard
+കരടി|bear
+കുറുക്കൻ|fox; jackal
+ഒട്ടകം|camel
+മുതല|crocodile
+പാമ്പ്|snake
+ആമ|turtle; tortoise
+പല്ലി|lizard
+തവള|frog
+താറാവ്|duck
+വാത്ത്|goose
+പൂവൻകോഴി|rooster
+കുഞ്ഞിക്കോഴി|chick
+കാക്ക|crow
+പ്രാവ്|pigeon
+തത്ത|parrot
+മയിൽ|peacock
+കുയിൽ|koel
+മൂങ്ങ|owl
+പരുന്ത്|eagle; kite
+കുരുവി|sparrow
+കൊക്ക്|crane; heron
+വവ്വാൽ|bat
+ചിത്രശലഭം|butterfly
+തേനീച്ച|bee
+ഉറുമ്പ്|ant
+കൊതുക്|mosquito
+ഈച്ച|fly
+ചിലന്തി|spider
+പാറ്റ|cockroach
+വണ്ട്|beetle
+പുഴു|worm
+മണ്ണിര|earthworm
+ഒച്ച്|snail
+ഞണ്ട്|crab
+ചെമ്മീൻ|prawn
+സ്രാവ്|shark
+തിമിംഗലം|whale
+ഡോൾഫിൻ|dolphin
+
+@clothing
+വസ്ത്രം|garment
+ഉടുപ്പ്|dress; clothing
+ഷർട്ട്|shirt
+ടീഷർട്ട്|T-shirt
+പാന്റ്|trousers
+ജീൻസ്|jeans
+മുണ്ട്|mundu
+ലുങ്കി|lungi
+സാരി|sari
+ചുരിദാർ|churidar
+പാവാട|skirt
+ബ്ലൗസ്|blouse
+കുർത്ത|kurta
+ജാക്കറ്റ്|jacket
+കോട്ട്|coat
+സ്വെറ്റർ|sweater
+തൊപ്പി|hat
+ഷാൾ|shawl
+ദുപ്പട്ട|dupatta
+സ്കാർഫ്|scarf
+കൈയുറ|glove
+സോക്സ്|socks
+ചെരുപ്പ്|footwear
+ഷൂ|shoe
+സാൻഡൽ|sandal
+ബെൽറ്റ്|belt
+ടൈ|tie
+പോക്കറ്റ്|pocket
+ബട്ടൺ|button
+സിപ്പ്|zip
+കുട|umbrella
+മഴക്കോട്ട്|raincoat
+തൂവാല|towel; handkerchief
+കുളിത്തോർത്ത്|bath towel
+വാച്ച്|watch
+മോതിരം|ring
+മാല|necklace
+വള|bangle
+കമ്മൽ|earring
+കണ്ണട|spectacles
+സൺഗ്ലാസ്|sunglasses
+പേഴ്സ്|purse; wallet
+യൂണിഫോം|uniform
+പരുത്തി|cotton
+പട്ട്|silk
+കമ്പിളി|wool
+സുഗന്ധദ്രവ്യം|perfume
+ചീപ്പ്|comb
+ഷാംപൂ|shampoo
+ടൂത്ത്ബ്രഷ്|toothbrush
+ടൂത്ത്പേസ്റ്റ്|toothpaste
+
+@time
+സമയം|time|എനിക്ക് സമയം വേണം.|I need time.
+നേരം|time; while|കുറച്ച് നേരം കാത്തിരിക്കൂ.|Please wait a little while.
+നിമിഷം|moment|ഒരു നിമിഷം കാത്തിരിക്കൂ.|Wait a moment.
+സെക്കൻഡ്|second|പത്ത് സെക്കൻഡ് കാത്തിരിക്കൂ.|Wait ten seconds.
+മിനിറ്റ്|minute|അഞ്ച് മിനിറ്റ് മതി.|Five minutes is enough.
+മണിക്കൂർ|hour|യാത്രയ്ക്ക് ഒരു മണിക്കൂർ വേണം.|The journey takes an hour.
+ദിവസം|day|ഞാൻ ഒരു ദിവസം കൂടി താമസിക്കും.|I will stay one more day.
+ആഴ്ച|week|ഞാൻ ഒരു ആഴ്ച ഇവിടെ ഉണ്ടാകും.|I will be here for a week.
+മാസം|month|അടുത്ത മാസം ഞാൻ വരും.|I will come next month.
+വർഷം|year|ഈ വർഷം ഞാൻ കേരളത്തിൽ പോകും.|I will go to Kerala this year.
+ഇന്ന്|today|ഇന്ന് ഞാൻ വീട്ടിലാണ്.|I am at home today.
+ഇന്നലെ|yesterday|ഇന്നലെ ഞാൻ കൊച്ചിയിൽ ആയിരുന്നു.|I was in Kochi yesterday.
+നാളെ|tomorrow|നാളെ നമുക്ക് കാണാം.|We can meet tomorrow.
+മറ്റന്നാൾ|the day after tomorrow|മറ്റന്നാൾ ഞാൻ മടങ്ങും.|I will return the day after tomorrow.
+മിനിഞ്ഞാന്ന്|the day before yesterday|മിനിഞ്ഞാന്ന് നല്ല മഴ ഉണ്ടായിരുന്നു.|It rained heavily the day before yesterday.
+രാവിലെ|morning|രാവിലെ ഞാൻ നടക്കും.|I walk in the morning.
+ഉച്ച|noon|ഉച്ച കഴിഞ്ഞ് ഞാൻ വരാം.|I can come after noon.
+ഉച്ചതിരിഞ്ഞ്|afternoon|ഉച്ചതിരിഞ്ഞ് നമുക്ക് പോകാം.|We can go in the afternoon.
+വൈകുന്നേരം|evening|വൈകുന്നേരം ഞാൻ ചായ കുടിക്കും.|I drink tea in the evening.
+രാത്രി|night|രാത്രി വാതിൽ അടയ്ക്കണം.|The door should be closed at night.
+അർദ്ധരാത്രി|midnight|ട്രെയിൻ അർദ്ധരാത്രി എത്തും.|The train will arrive at midnight.
+നേരത്തെ|early|ഞാൻ നേരത്തെ എത്തി.|I arrived early.
+വൈകി|late|ബസ് വൈകി വന്നു.|The bus came late.
+പതിവായി|regularly|ഞാൻ പതിവായി ഇവിടെ വരും.|I come here regularly.
+എപ്പോഴും|always|അവൾ എപ്പോഴും ചിരിക്കും.|She always smiles.
+ചിലപ്പോൾ|sometimes|ചിലപ്പോൾ ഞാൻ ബസിൽ പോകും.|Sometimes I go by bus.
+ഒരിക്കലും|ever; never with a negative|ഞാൻ ഒരിക്കലും അവിടെ പോയിട്ടില്ല.|I have never been there.
+ഇടയ്ക്ക്|occasionally; in between|ഇടയ്ക്ക് വിശ്രമിക്കണം.|You should rest occasionally.
+ദിവസവും|every day|ഞാൻ ദിവസവും നടക്കുന്നു.|I walk every day.
+ഇടവേള|break; interval|എനിക്ക് ഒരു ഇടവേള വേണം.|I need a break.
+തീയതി|date|ഇന്നത്തെ തീയതി എന്താണ്?|What is today’s date?
+ജന്മദിനം|birthday|ഇന്ന് എന്റെ ജന്മദിനം ആണ്.|Today is my birthday.
+അവധി|holiday; leave|നാളെ അവധി ആണ്.|Tomorrow is a holiday.
+ഉത്സവം|festival|ഉത്സവം അടുത്ത ആഴ്ചയാണ്.|The festival is next week.
+ആഘോഷം|celebration|ആഘോഷം വൈകുന്നേരമാണ്.|The celebration is in the evening.
+ഓണം|Onam|ഓണം എനിക്ക് ഇഷ്ടമാണ്.|I like Onam.
+വിഷു|Vishu|വിഷു ഏപ്രിൽ മാസത്തിലാണ്.|Vishu is in April.
+തിങ്കളാഴ്ച|Monday|ഞാൻ തിങ്കളാഴ്ച വരും.|I will come on Monday.
+ചൊവ്വാഴ്ച|Tuesday|ചൊവ്വാഴ്ച എനിക്ക് സമയം ഉണ്ട്.|I have time on Tuesday.
+ബുധനാഴ്ച|Wednesday|ബുധനാഴ്ച കട തുറക്കും.|The shop will open on Wednesday.
+വ്യാഴാഴ്ച|Thursday|വ്യാഴാഴ്ച നമുക്ക് കാണാം.|We can meet on Thursday.
+വെള്ളിയാഴ്ച|Friday|ഞാൻ വെള്ളിയാഴ്ച പോകും.|I will go on Friday.
+ശനിയാഴ്ച|Saturday|ശനിയാഴ്ച ഇവിടെ തിരക്കാണ്.|It is crowded here on Saturday.
+ഞായറാഴ്ച|Sunday|ഞായറാഴ്ച ഞാൻ വിശ്രമിക്കും.|I will rest on Sunday.
+ജനുവരി|January|ജനുവരി മാസത്തിൽ ഞാൻ വരും.|I will come in January.
+ഫെബ്രുവരി|February|ഫെബ്രുവരി മാസത്തിൽ യാത്രയുണ്ട്.|There is a trip in February.
+മാർച്ച്|March|മാർച്ച് മാസത്തിൽ പരീക്ഷയുണ്ട്.|There is an exam in March.
+ഏപ്രിൽ|April|ഏപ്രിൽ മാസത്തിൽ ഇവിടെ ചൂടാണ്.|It is hot here in April.
+മെയ്|May|മെയ് മാസത്തിൽ ഞങ്ങൾ വരും.|We will come in May.
+ജൂൺ|June|ജൂൺ മാസത്തിൽ മഴ തുടങ്ങും.|The rain starts in June.
+ജൂലൈ|July|ജൂലൈ മാസത്തിൽ നല്ല മഴയുണ്ട്.|There is heavy rain in July.
+ഓഗസ്റ്റ്|August|ഓഗസ്റ്റ് മാസത്തിൽ ഞാൻ മടങ്ങും.|I will return in August.
+സെപ്റ്റംബർ|September|സെപ്റ്റംബർ മാസത്തിൽ സമയം ഉണ്ട്.|There is time in September.
+ഒക്ടോബർ|October|ഒക്ടോബർ മാസത്തിൽ യാത്രയുണ്ട്.|There is a trip in October.
+നവംബർ|November|നവംബർ മാസത്തിൽ ഞങ്ങൾ പോകും.|We will go in November.
+ഡിസംബർ|December|ഡിസംബർ മാസത്തിൽ അവധിയുണ്ട്.|There is a holiday in December.
+ഒന്ന്|one|ഒന്ന് കൂടി തരാമോ?|Could you give me one more?
+രണ്ട്|two|എനിക്ക് രണ്ട് ടിക്കറ്റ് വേണം.|I need two tickets.
+മൂന്ന്|three|മൂന്ന് പേർ വരുന്നുണ്ട്.|Three people are coming.
+നാല്|four|നാല് മണിക്ക് കാണാം.|See you at four o’clock.
+അഞ്ച്|five|അഞ്ച് മിനിറ്റ് കാത്തിരിക്കൂ.|Please wait five minutes.
+ആറ്|six|ആറ് പേർക്ക് മേശ വേണം.|We need a table for six people.
+ഏഴ്|seven|ഏഴ് മണിക്ക് വരൂ.|Come at seven o’clock.
+എട്ട്|eight|എട്ട് മണിക്ക് കട തുറക്കും.|The shop opens at eight o’clock.
+ഒൻപത്|nine|ഒൻപത് മണിക്ക് ബസ് ഉണ്ട്.|There is a bus at nine o’clock.
+പത്ത്|ten|പത്ത് രൂപ തരാമോ?|Could you give me ten rupees?
+പതിനൊന്ന്|eleven|പതിനൊന്ന് മണിക്ക് കാണാം.|See you at eleven o’clock.
+പന്ത്രണ്ട്|twelve|പന്ത്രണ്ട് മണിക്ക് ഭക്ഷണം കഴിക്കാം.|We can eat at twelve o’clock.
+ഇരുപത്|twenty|ഇരുപത് രൂപ മതി.|Twenty rupees is enough.
+മുപ്പത്|thirty|മുപ്പത് മിനിറ്റ് വേണം.|It takes thirty minutes.
+നാല്പത്|forty|നാല്പത് രൂപയാണ് വില.|The price is forty rupees.
+അൻപത്|fifty|അൻപത് രൂപ കൊടുക്കണം.|Fifty rupees must be paid.
+നൂറ്|one hundred|നൂറ് രൂപ വേണം.|One hundred rupees is needed.
+ആയിരം|one thousand|ആയിരം രൂപ കൊടുത്തു.|One thousand rupees was paid.
+പകുതി|half|എനിക്ക് പകുതി മതി.|Half is enough for me.
+കാൽഭാഗം|a quarter|കാൽഭാഗം ഇവിടെ വെക്കൂ.|Put a quarter of it here.
+
+@work
+ജോലി|job
+തൊഴിൽ|occupation
+പണി|work; task
+പഠനം|study
+വിദ്യാഭ്യാസം|education
+പരിശീലനം|training
+പാഠം|lesson
+ക്ലാസ്|class
+കോഴ്സ്|course
+പരീക്ഷ|exam
+ഉത്തരം|answer
+ചോദ്യം|question
+പുസ്തകം|book
+നോട്ട്ബുക്ക്|notebook
+പേന|pen
+പെൻസിൽ|pencil
+റബ്ബർ|eraser
+സ്കെയിൽ|ruler
+ബോർഡ്|board
+ചോക്ക്|chalk
+കത്ത്|letter
+കവിത|poem
+കഥ|story
+ലേഖനം|article
+പത്രം|newspaper
+വാർത്ത|news
+റിപ്പോർട്ട്|report
+വിവരം|information
+അറിവ്|knowledge
+യോഗം|meeting
+ചർച്ച|discussion
+സമ്മേളനം|conference
+പരിപാടി|event; programme
+അപേക്ഷ|application; request
+ഫോം|form
+രേഖ|document; record
+സർട്ടിഫിക്കറ്റ്|certificate
+ഒപ്പ്|signature
+പകർപ്പ്|copy
+ഫയൽ|file
+പട്ടിക|list
+പേര്|name
+നമ്പർ|number
+പ്രോജക്ട്|project
+പദ്ധതി|plan; project
+ആശയം|idea
+തീരുമാനം|decision
+നിർദ്ദേശം|suggestion; instruction
+ചുമതല|responsibility
+കടമ|duty
+ശമ്പളം|salary
+അഭിമുഖം|interview
+അനുഭവം|experience
+കഴിവ്|ability; skill
+സമയംക്രമം|schedule
+പ്രവൃത്തി|activity; work
+സേവനം|service
+ഉത്പന്നം|product
+ഗുണനിലവാരം|quality
+വിൽപ്പന|sale
+വിപണി|market
+കമ്പനി|company
+സ്ഥാപനം|institution; establishment
+സംഘം|group; team
+അംഗം|member
+സംഘടന|organisation
+സർക്കാർ|government
+നിയമം|law
+നയം|policy
+വകുപ്പ്|department
+നികുതി|tax
+തിരഞ്ഞെടുപ്പ്|election
+അവകാശം|right; entitlement
+സമൂഹം|society
+പ്രസംഗം|speech
+
+@money
+പണം|money
+രൂപ|rupees
+പൈസ|small change; money
+നാണയം|coin
+നോട്ട്|banknote
+വില|price
+ചെലവ്|expense
+കണക്ക്|calculation; account
+ബിൽ|bill
+രസീത്|receipt
+ചില്ലറ|small change
+ബാക്കി|balance; remainder
+തുക|amount
+കിഴിവ്|discount
+ലാഭം|profit
+നഷ്ടം|loss
+വരുമാനം|income
+സമ്പാദ്യം|savings
+അക്കൗണ്ട്|account
+കാർഡ്|card
+പേയ്മെന്റ്|payment
+പാസ്ബുക്ക്|passbook
+ചെക്ക്|cheque
+വായ്പ|loan
+കടം|debt
+പലിശ|interest on a loan
+നിക്ഷേപം|deposit; investment
+മുൻകൂർ|advance payment
+ഫീസ്|fee
+പിഴ|fine; penalty
+പണംമാറ്റം|money exchange
+മടക്കിനൽകൽ|refund
+വിൽപ്പനക്കാരൻ|seller
+വാങ്ങുന്നയാൾ|buyer
+
+@technology
+ഫോൺ|phone
+മൊബൈൽ|mobile phone
+സ്മാർട്ട്ഫോൺ|smartphone
+കമ്പ്യൂട്ടർ|computer
+ലാപ്ടോപ്പ്|laptop
+ടാബ്ലറ്റ്|tablet computer
+സ്ക്രീൻ|screen
+കീബോർഡ്|keyboard
+മൗസ്|computer mouse
+പ്രിന്റർ|printer
+സ്കാനർ|scanner
+ക്യാമറ|camera
+ഫോട്ടോ|photograph
+വീഡിയോ|video
+മൈക്രോഫോൺ|microphone
+സ്പീക്കർ|speaker
+ഹെഡ്ഫോൺ|headphones
+ചാർജർ|charger
+ബാറ്ററി|battery
+കേബിൾ|cable
+ഇന്റർനെറ്റ്|internet
+വൈഫൈ|Wi-Fi
+നെറ്റ്വർക്ക്|network
+സിം|SIM card
+ഡാറ്റ|data
+ആപ്പ്|app
+വെബ്സൈറ്റ്|website
+പാസ്വേഡ്|password
+സന്ദേശം|message
+ഇമെയിൽ|email
+ലിങ്ക്|link
+ഡൗൺലോഡ്|download
+അപ്ഡേറ്റ്|update
+സെറ്റിങ്|setting
+കണക്ഷൻ|connection
+ശബ്ദരേഖ|audio recording
+ഓഡിയോ|audio
+ഓൺലൈൻ|online|ഞാൻ ഓൺലൈൻ വഴി പണം അടച്ചു.|I paid online.
+ഓഫ്ലൈൻ|offline|ഈ ആപ്പ് ഓഫ്ലൈൻ ആയി ഉപയോഗിക്കാം.|This app can be used offline.
+
+@feelings
+സന്തോഷം|happiness
+സങ്കടം|sadness
+ദുഃഖം|sorrow
+സ്നേഹം|love
+പ്രണയം|romantic love
+ഇഷ്ടം|liking; fondness
+ദേഷ്യം|anger
+കോപം|anger
+ഭയം|fear
+പേടി|fear; fright
+ആശങ്ക|worry
+ഉത്കണ്ഠ|anxiety
+ആശ്വാസം|relief
+സമാധാനം|peace
+ശാന്തി|calm; peace
+അത്ഭുതം|surprise; wonder
+ആകാംക്ഷ|eagerness; curiosity
+താൽപ്പര്യം|interest
+ആവേശം|enthusiasm
+ഉത്സാഹം|energy; enthusiasm
+പ്രതീക്ഷ|hope
+നിരാശ|disappointment
+വിശ്വാസം|trust; belief
+സംശയം|doubt
+അഭിമാനം|pride
+നാണം|shyness; embarrassment
+ലജ്ജ|shame; embarrassment
+അസൂയ|jealousy
+കൗതുകം|curiosity
+മടുപ്പ്|boredom
+ഏകാന്തത|loneliness
+വിരഹം|separation; longing
+കരുണ|compassion
+ദയ|kindness
+ബഹുമാനം|respect
+ആഗ്രഹം|desire; wish
+ധൈര്യം|courage
+ക്ഷമ|patience; forgiveness
+ആത്മവിശ്വാസം|self-confidence
+ഉറക്കം|sleepiness; sleep
+
+@concepts
+ജീവിതം|life
+ജീവൻ|life; being alive
+സ്വാതന്ത്ര്യം|freedom
+നീതി|justice
+സത്യം|truth
+നന്മ|goodness
+സത്യസന്ധത|honesty
+സുരക്ഷ|safety
+സ്വകാര്യത|privacy
+ഉത്തരവാദിത്തം|responsibility
+സഹകരണം|cooperation
+സൗഹൃദം|friendship
+കുടുംബം|family
+ഐക്യം|unity
+വിജയം|success
+പരാജയം|failure
+ശ്രമം|effort
+ലക്ഷ്യം|goal
+ആവശ്യം|need
+അവസരം|opportunity
+മാറ്റം|change
+വളർച്ച|growth
+വികസനം|development
+പുരോഗതി|progress
+പ്രശ്നം|problem
+പരിഹാരം|solution
+കാര്യം|matter; thing
+വിഷയം|subject; topic
+ഭാഗം|part
+രീതി|method
+വ്യത്യാസം|difference
+സാമ്യം|similarity
+ബന്ധം|relationship
+ഉദ്ദേശ്യം|purpose
+അർത്ഥം|meaning
+വാക്ക്|word
+വാക്യം|sentence
+ഭാഷ|language
+മലയാളം|Malayalam
+ഇംഗ്ലീഷ്|English
+തമിഴ്|Tamil
+ഹിന്ദി|Hindi
+പാട്ട്|song
+സംഗീതം|music
+കല|art
+നൃത്തം|dance
+ചിത്രം|picture
+നിറം|colour
+രൂപം|shape; form
+ചിന്ത|thought
+ഓർമ്മ|memory
+ശ്രദ്ധ|attention
+ശീലം|habit
+സ്വപ്നം|dream
+ചരിത്രം|history
+സംസ്കാരം|culture
+പാരമ്പര്യം|tradition
+അഭിപ്രായം|opinion
+അംഗീകാരം|approval; recognition
+വാഗ്ദാനം|promise
+പിന്തുണ|support
+സംരക്ഷണം|protection
+അന്വേഷണം|inquiry; investigation
+പരിശോധന|examination; inspection
+കണ്ടുപിടിത്തം|discovery; invention
+വിവരണം|description
+ഉദാഹരണം|example
+വാർത്താവിനിമയം|communication
+അഭിനന്ദനം|congratulations
+ക്ഷണം|invitation
+വിവാഹം|marriage
+കല്യാണം|wedding
+ജനനം|birth
+ഓർമപ്പെടുത്തൽ|reminder
+തുടക്കം|beginning
+അവസാനം|end
+ഫലം|result
+മറുപടി|reply
+ചിരി|laughter; smile
+കണ്ണീർ|tears
+സ്വഭാവം|character; nature
+പ്രാധാന്യം|importance
+മൂല്യം|value
+ഗുണം|benefit; quality
+അളവ്|quantity; measure
+എണ്ണം|number; count

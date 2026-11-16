@@ -1,0 +1,254 @@
+[
+  [
+    "Namaskaaram",
+    "Hello",
+    "na-mas-kaa-ram",
+    "നമസ്കാരം",
+    "Hold the aa a little longer, as in “father”. A friendly greeting; a simple hello is common too."
+  ],
+  [
+    "Nandi",
+    "Thank you",
+    "nan-di",
+    "നന്ദി",
+    "Keep both syllables short. Let your tongue touch just behind your upper teeth for d."
+  ],
+  [
+    "Sukhamaano?",
+    "How are you?",
+    "su-kha-maa-no",
+    "സുഖമാണോ",
+    "Keep the aa long. Let your voice rise gently at the end of the question."
+  ],
+  [
+    "Sukham",
+    "I’m well",
+    "su-kham",
+    "സുഖം",
+    "A short reply to “Sukhamaano?” Keep the ending light; no extra syllable after m."
+  ],
+  [
+    "Ente peru Raghav",
+    "My name is Raghav",
+    "en-te pay-ru Raghav",
+    "എന്റെ പേര് രാഘവ്",
+    "Replace Raghav with your name. The e in peru is long and steady: don’t slide into an English “ay”."
+  ],
+  [
+    "Naale kaanaam",
+    "See you tomorrow",
+    "naa-le kaa-naam",
+    "നാളെ കാണാം",
+    "Hold each aa. The l in naale is made with your tongue curled back slightly."
+  ],
+  [
+    "Oru chaaya venam",
+    "I’d like a tea",
+    "o-ru chaa-ya vay-nam",
+    "ഒരു ചായ വേണം",
+    "Chaaya has a long aa. Hold the e in venam steady; “vay” is only a rough cue, without a y-glide."
+  ],
+  [
+    "Vellam venam",
+    "I’d like water",
+    "vel-lam vay-nam",
+    "വെള്ളം വേണം",
+    "Hold the doubled ll briefly with your tongue curled back. It is not the ordinary l in English “let”."
+  ],
+  [
+    "Oru kaappi venam",
+    "I’d like a coffee",
+    "o-ru kaap-pi vay-nam",
+    "ഒരു കാപ്പി വേണം",
+    "Keep aa long, close your lips briefly for pp, then release. Don’t rush kaappi into “copy”."
+  ],
+  [
+    "Kattan chaaya",
+    "Black tea",
+    "kat-tan chaa-ya",
+    "കട്ടൻ ചായ",
+    "Hold the doubled tt briefly; curl your tongue back for that t. Kattan means black, without milk."
+  ],
+  [
+    "Paal venda",
+    "No milk, please",
+    "paal vayn-da",
+    "പാൽ വേണ്ട",
+    "The aa in paal is long. Venda means “don’t want”; venam means “want”. Tone keeps the request friendly."
+  ],
+  [
+    "Madhuram venda",
+    "No sugar, please",
+    "ma-dhu-ram vayn-da",
+    "മധുരം വേണ്ട",
+    "In a tea order, this asks for no sweetening. Put your tongue near your upper teeth for dh; don’t use English “this”."
+  ],
+  [
+    "Evide?",
+    "Where?",
+    "e-vi-de",
+    "എവിടെ",
+    "Three light syllables. The d is made with your tongue curled back, rather than touching the teeth."
+  ],
+  [
+    "Bus stand evide?",
+    "Where is the bus stand?",
+    "bus stand e-vi-de",
+    "ബസ് സ്റ്റാൻഡ് എവിടെ",
+    "Keep “bus stand” in English, then add evide. Mixing familiar English place names is useful here."
+  ],
+  [
+    "Railway station evide?",
+    "Where is the railway station?",
+    "railway station e-vi-de",
+    "റെയിൽവേ സ്റ്റേഷൻ എവിടെ",
+    "Use your familiar words for railway station, then ask evide with a gentle question ending."
+  ],
+  [
+    "Ivide nirthu",
+    "Stop here",
+    "i-vi-de nir-thu",
+    "ഇവിടെ നിർത്തൂ",
+    "Ivide means here; evide means where. For th, touch near the upper teeth: it is not English “thin”."
+  ],
+  [
+    "Edathottu",
+    "To the left",
+    "e-da-thot-tu",
+    "ഇടത്തോട്ട്",
+    "Keep the middle o long and hold the final doubled tt briefly. Use it while giving directions."
+  ],
+  [
+    "Valathottu",
+    "To the right",
+    "va-la-thot-tu",
+    "വലത്തോട്ട്",
+    "Keep the o long, with a short hold at tt. Pair this with edathottu: left and right."
+  ],
+  [
+    "Ethra roopa?",
+    "How many rupees?",
+    "eth-ra roo-pa",
+    "എത്ര രൂപ",
+    "Th is a dental t, not English “th”. Hold oo in roopa as in “food”. A useful way to ask a price."
+  ],
+  [
+    "Venam",
+    "I want it",
+    "vay-nam",
+    "വേണം",
+    "The long e stays steady. Curl your tongue back for n. Say it warmly when accepting something."
+  ],
+  [
+    "Venda",
+    "I don’t want it",
+    "vayn-da",
+    "വേണ്ട",
+    "Keep the e long and steady. Listen for the different ending: venda declines, venam accepts."
+  ],
+  [
+    "Ithu venam",
+    "I’d like this",
+    "i-thu vay-nam",
+    "ഇത് വേണം",
+    "Point to the item. The th in ithu is a soft dental sound, often heard closer to d in speech."
+  ],
+  [
+    "Kurachu kuraykkamo?",
+    "Could you lower the price a little?",
+    "ku-ra-chu ku-ray-kkaa-mo",
+    "കുറച്ച് കുറയ്ക്കാമോ",
+    "Keep the final aa long and the question gentle. Kurachu means “a little”. Use only where bargaining is appropriate."
+  ],
+  [
+    "Bill tharumo?",
+    "Could I have the bill?",
+    "bill tha-ru-mo",
+    "ബിൽ തരുമോ",
+    "Bill is an English loanword. Touch your tongue near your upper teeth for th, with no English “th” hiss."
+  ],
+  [
+    "Manassilaayilla",
+    "I didn’t understand",
+    "ma-nas-si-laa-yil-la",
+    "മനസ്സിലായില്ല",
+    "Break it into small chunks: ma-nas-si / laa-yil-la. Hold ss and ll briefly."
+  ],
+  [
+    "Veendum parayamo?",
+    "Could you say it again?",
+    "veen-dum pa-ra-yaa-mo",
+    "വീണ്ടും പറയാമോ",
+    "Hold ee in veendum and aa in parayamo. A rising, friendly ending makes this a request."
+  ],
+  [
+    "Onnu pathukke parayamo?",
+    "Could you speak a little slowly?",
+    "on-nu pa-thuk-ke pa-ra-yaa-mo",
+    "ഒന്ന് പതുക്കെ പറയാമോ",
+    "Hold nn and kk briefly. Pathukke means slowly. Practise one word at a time, then join them."
+  ],
+  [
+    "Ariyilla",
+    "I don’t know",
+    "a-ri-yil-la",
+    "അറിയില്ല",
+    "Keep the first two syllables light and hold ll briefly. Do not turn the r into a strong English r."
+  ],
+  [
+    "Enikku Malayalam ariyilla",
+    "I don’t know Malayalam",
+    "e-nik-ku ma-la-yaa-lam a-ri-yil-la",
+    "എനിക്ക് മലയാളം അറിയില്ല",
+    "Hold kk in enikku. The l after yaa in Malayalam is a curled-tongue l."
+  ],
+  [
+    "English ariyamo?",
+    "Do you know English?",
+    "English a-ri-yaa-mo",
+    "ഇംഗ്ലീഷ് അറിയാമോ",
+    "Keep aa long in ariyamo. This asks whether the other person knows English."
+  ],
+  [
+    "Sahaayikkoo",
+    "Please help",
+    "sa-haa-yik-koo",
+    "സഹായിക്കൂ",
+    "Hold aa and the final oo. Hold kk briefly before releasing into oo."
+  ],
+  [
+    "Aashupathri evide?",
+    "Where is the hospital?",
+    "aa-shu-pa-thri e-vi-de",
+    "ആശുപത്രി എവിടെ",
+    "Hold the initial aa. Th is made near the upper teeth. Break aashupathri into four small beats."
+  ],
+  [
+    "Marunnu venam",
+    "I need medicine",
+    "ma-run-nu vay-nam",
+    "മരുന്ന് വേണം",
+    "Hold the doubled nn in marunnu. This is a general request; you still need to explain which medicine."
+  ],
+  [
+    "Marunnu kada evide?",
+    "Where is the pharmacy?",
+    "ma-run-nu ka-da e-vi-de",
+    "മരുന്നുകട എവിടെ",
+    "Marunnu means medicine; kada means shop. The d in kada is made with a curled-back tongue."
+  ],
+  [
+    "Enikku vayar vedana",
+    "I have a stomach ache",
+    "e-nik-ku va-yar vay-da-na",
+    "എനിക്ക് വയർ വേദന",
+    "Hold kk in enikku. Vayar is stomach, and vedana is pain. Keep the long e steady."
+  ],
+  [
+    "Enikku pani undu",
+    "I have a fever",
+    "e-nik-ku pa-ni un-du",
+    "എനിക്ക് പനി ഉണ്ട്",
+    "Pani has a short a and an ordinary n. Keep it distinct from the curled-tongue n in the word for work."
+  ]
+]

@@ -1,0 +1,224 @@
+# Native form | contextual gloss | teaching note | optional text=meaning / text=meaning
+സുഖം|comfort; health; well-being|Borrowed from Sanskrit sukha (“ease / happiness”). In a reply to “sukhamaano?”, sukham naturally means “I’m well”. The final -m is part of the word here, not a question ending.
+സുഖമാണോ|Are you well?|Sukham + aanu becomes sukhamaanu (“am / are well”); aanu + the yes/no ending -o becomes aano. The person is understood from context. Literally “Well-being — is it?”; naturally “How are you?”|sukham=comfort; health; well-being (from Sanskrit sukha, ease / happiness) / aano?=is / are …? (aanu + question ending -o)
+ആണ്|is; am; are|Aanu is the linking verb for identity or description. The same form works with I, you, and they; it is not a word for “you”.
+ആണോ|is / are …?|Aanu (“is / are”) becomes aano when the question ending -o is added.|aanu=is / am / are / -o?=yes/no question ending
+ഉണ്ടോ|is there …?; do you have …?|Undu (“there is / exists”) + -o makes undo? In a possession context, natural English uses “have”.|undu=there is; exists / -o?=yes/no question ending
+വേണം|want; need|The person is often left out when obvious. Enikku … venam is literally “to me … is wanted / needed”, naturally “I want / need …”.
+വേണ്ട|do not want; do not need|A negative form learned as a unit. Do not split it into venam + illa: the negative has its own form.
+നമുക്ക്|to / for us (including you)|This is the “to / for” form of nammal. With pokaam it makes an invitation: “let us go”. The pronoun changes shape rather than keeping nammal unchanged.
+എനിക്ക്|to me; for me|This is the “to / for” form of njaan (“I”). Malayalam uses it for wants, needs, abilities and experiences. It is not simply njaan with an ending stuck on unchanged.
+എന്നെ|me (object)|The object form of njaan (“I”): use it for the person an action affects, as in “help me”.
+എന്റെ|my|The possessive form of njaan (“I”). Put ente before the thing or person: ente peru = my name.
+നിന്റെ|your (informal)|The possessive form of nee (“you”, informal). Use ningalude for polite or plural “your”.
+നിങ്ങളുടെ|your (polite / plural)|The possessor comes first: ningalude phone = your phone.|ningal=you (polite / plural) / -ude=of; possessive ending
+ഞങ്ങളുടെ|our (excluding you)|The possessive form of njangal: it refers to our group without including the person being addressed.|njangal=we (excluding the listener) / -ude=of; possessive ending
+നമ്മുടെ|our (including you)|The possessive form of nammal (“we”, including the listener). Learn the changed pronoun form as a unit.
+അവരുടെ|their; his / her (respectful)|Avar can mean “they” or refer respectfully to one person.|avar=they; he / she respectfully / -ude=of; possessive ending
+ഞങ്ങൾക്ക്|to / for us (excluding you)|The group excludes the person being addressed.|njangal=we (excluding the listener) / -kku=to / for
+ഇതിന്റെ|of this; its|Ithu changes to ithin- before this possessive ending. Learn ithinte as the possessive of ithu.
+അതിന്റെ|of that; its|Athu changes to athin- before this possessive ending. Learn athinte as the possessive of athu.
+ഇതിന്|for this; to this|The “to / for” form of ithu (“this”). Pronouns can change their stem in case forms.
+ഇതിൽ|in this|The final short vowel changes when the ending joins.|ithu=this / -il=in
+ഇതിലും|than this; in this too|In size comparisons this is naturally “than this”; in other contexts -um can mean “also”. The gloss depends on the comparison.|ithil=in this / -um=also; in this comparison, helps give “than this”
+എനിക്കും|to me too|The -um adds “also / too” to enikku.|enikku=to me / -um=also; too
+കുട്ടിക്കും|to / for the child too|The dative -kku and additive -um can stack.|kutti=child / -kku=to / for / -um=also; too
+എവിടെയാണ്|where is …?|Evide asks where; aanu links the thing and its location. A y joins the vowels. The question is supplied by evide, so there is no -o here.|evide=where / aanu=is / are (with a linking y)
+എവിടേക്ക്|to where?|A direction ending turns a location question into a destination question.|evide=where / -ekku=towards; to
+എന്താണ്|what is …?|Enthu (“what”) supplies the question; aanu is still the ordinary linking verb.|enthu=what / aanu=is / are
+എത്രയാണ്|how much is …?|Ethra asks how much; aanu links the amount to the item. The y is a joining sound.|ethra=how much; how many / aanu=is / are
+ഏതാണ്|which is …?|Ethu is the question word. There is no need for the yes/no ending -o.|ethu=which / aanu=is / are
+ആരാണ്|who is …?|Aaru asks who. Aanu links the identity being asked about.|aaru=who / aanu=is / are
+എന്നാണ്|is called; is that …|Ennu introduces a name or quoted content. In ente peru … ennaanu, the whole expression names someone.|ennu=that; called (quotation marker) / aanu=is / are
+നിന്നാണ്|is from …|Ninnu follows a place marked with -il. Aanu can attach to focus the source: “it is from …”.|ninnu=from / aanu=is / are
+മണിക്കാണ്|is at … o’clock|Manikku marks the clock time; aanu links or focuses it.|mani=hour; clock time / -kku=at / aanu=is / are
+വീട്ടിലാണ്|is at home / in the house|Veedu changes to veett- before -il. This is a real stem change, not a new word.|veedu=house; home (stem veett-) / -il=in; at / aanu=is / are
+മാസത്തിലാണ്|is in the month|Maasam changes to maasath- before -il.|maasam=month (stem maasath-) / -il=in / aanu=is / are
+പ്ലാറ്റ്ഫോമിലാണ്|is on the platform|The place name takes -il before aanu.|platform=platform / -il=on / aanu=is / are
+ആദ്യമായാണ്|is for the first time|Aadyamaayi is the “for the first time” expression; aanu can attach for focus.|aadyamaayi=for the first time / aanu=is / are
+കണ്ടതിൽ|in having met / seen|The past “saw / met” is made into an event expression. Kandathil santhosham is the conventional “pleasure in meeting [you]”.|kandathu=having seen / met; what was seen / -il=in
+തരാമോ|could you give me …?|Tharaam is a willing / possible giving form. Adding -o makes a polite request; -aam does not always mean ability alone.|thar-=give (towards me / us) / -aam=can / willing-to form in this request / -o?=yes/no question ending
+തരുമോ|will you give …?|The future / non-past form tharum becomes a request when questioned.|thar-=give (towards me / us) / -um=will / non-past form / -o?=yes/no question ending
+കഴിയും|can; is possible|With a verb in -aan and a person in the “to / for” form, kazhiyum expresses ability: enikku … kazhiyum = I can … . Learn this modal form as a unit.
+അറിയാം|know|Often used with a “to / for” pronoun: enikku ariyaam = I know. Here -aam is part of this knowing form; do not translate every -aam as “let us”.
+അറിയില്ല|do not know|This is the negative of knowing. Its spoken shape is learned as ariyilla.|ariy-=know / -illa=negative: not
+അറിയാമോ|do you know …?|The person is supplied by context.|ariyaam=know / -o?=yes/no question ending
+വരാം|can come; will come (offer)|The -aam form can express willingness, possibility or an offer. Context decides.|var-=come / -aam=can / willing-to form
+കാണാം|can see; see you|In leave-taking, naale kaanaam conventionally means “see you tomorrow”, rather than a literal statement of visual ability.|kaan-=see / -aam=can / let us / willing-to form, according to context
+പോകാം|can go; let us go|With namukku, this makes “let us go”; without it, context can make it “I can go”.|pok-=go / -aam=can / let us / willing-to form
+കഴിക്കാം|can eat; let us eat|Context determines whether this is an ability, suggestion or invitation.|kazhikk-=eat / -aam=can / let us / willing-to form
+ഉപയോഗിക്കാം|can use|The verb comes after the thing you want to use.|upayogikk-=use / -aam=can / willing-to form
+തുറക്കാം|can open; let us open||thurakk-=open / -aam=can / let us form
+കാത്തിരിക്കാം|can wait||kaathirikk-=wait / -aam=can / willing-to form
+ചികിത്സിക്കാം|can treat||chikithsikk-=treat medically / -aam=can / willing-to form
+കണ്ടു|saw; met|This is a changed past stem of kaanuka (“to see”). Learn kaanuka → kandu; do not build it by adding an English-style past ending.
+വന്നു|came; has arrived|An irregular past form of varuka (“come”). Learn varuka → vannu as a pair.
+പറഞ്ഞു|said; told|A past form of parayuka (“say”). The stem changes: paray- → paranj-.
+അടച്ചു|closed|A past form of adaykkuka (“close”). The ending and stem change together.
+തീർന്നു|finished; ended|A past form of theeruka (“finish / end”). Learn the changed past form as a unit.
+എത്തി|arrived; reached|A past form of eththuka (“reach / arrive”).
+കിട്ടി|got; received|A past form of kittuka (“get / receive”).
+കൊടുത്തു|gave|A past form of kodukkuka (“give”). The doubled kk changes in the past form.
+വർദ്ധിച്ചു|increased|A past form of vardhikkuka (“increase”).
+ഉണ്ടായി|occurred; came into being|A past form of undaakuka (“happen / come into being”).
+വന്നാൽ|if … come / comes|The conditional uses the past stem vann- with -aal; it need not refer to past time.|vann-=come (changed stem from varuka) / -aal=if; conditional ending
+ഉണ്ടെങ്കിൽ|if there is …|The condition is built on undu (“there is”).|undu=there is / -enkil=if
+ഉണ്ടാകും|will be; there will be|A future form of undaakuka (“be / happen”). Do not confuse this with a fixed possession statement.
+പോകേണ്ട|do not go; need not go|A negative necessity / instruction form. Learn the whole form; it is not the future pokum with -illa added.
+കൊടുക്കണോ|should I give …?|The necessity form kodukkanam is questioned as kodukkano: a useful way to ask what to do.|kodukk-=give / -ano?=should / need to …? (questioned necessity form)
+ഊരണോ|should I remove …?|The necessity form ooranam becomes oorano in a question.|oor-=remove / -ano?=should / need to …? (questioned necessity form)
+മറക്കരുത്|do not forget|The negative command ending is not the same as -illa.|marakk-=forget / -aruthu=do not (prohibition)
+കേടാക്കരുത്|do not damage||kedaakk-=damage / -aruthu=do not (prohibition)
+സമയമില്ല|there is no time|Illa negates existence / availability.|samayam=time / illa=there is no; not available
+സുഖമില്ല|not well|This is the absence of well-being; the natural English translation is “I do not feel well”.|sukham=well-being / illa=not; absence
+മനസ്സിലായി|understood|Manassilaakuka (“understand”) literally involves something becoming clear “in the mind”. Learn the changed past form manassilaayi.|manassil=in the mind (manassu + -il) / aayi=became; came to be
+മനസ്സിലായില്ല|did not understand|The positive past is manassilaayi. The negative uses a changed joined form with -illa.|manassil=in the mind / aay-=became clear; understood (past stem) / -illa=not; negative
+കേട്ടില്ല|did not hear|The positive past is kettu (“heard”); the negative uses kett- + illa.|kett-=heard (past stem of kelkkuka) / -illa=not; negative
+കാണുന്നില്ല|not seeing; cannot find|In this context, “my bag is not being seen” naturally means “I cannot find my bag”.|kaan-=see / -unnilla=negative present: not seeing
+കിട്ടുന്നില്ല|not getting; not available||kitt-=get; receive / -unnilla=negative present: not getting
+പോയിട്ടില്ല|have not gone|The perfect negative says the experience has not occurred; poyi is the changed past of pokuka.|poy-=went (changed stem of pokuka) / -ittilla=have not; perfect negative
+തുറന്നിട്ടുണ്ടോ|is it open?; has it been opened?|This asks whether the result of opening is in effect. Learn the full opened-state expression before trying other verbs.|thurann-=opened (changed stem of thurakkuka) / -ittundu=has been; resulting state / -o?=yes/no question ending
+തുറന്നിരിക്കും|will be open|The opened state is combined with an auxiliary form of “be”.|thurannu=opened / irikkum=will be; will remain
+അടഞ്ഞിരിക്കുന്നു|is closed|An intransitive closed state, not the action of closing something.|adanju=became closed / irikkunnu=is; remains (state auxiliary)
+വരുന്നുണ്ട്|is coming|The present form joins undu to emphasize the ongoing occurrence.|varunnu=is coming / undu=exists; emphasizes the occurrence here
+പഠിക്കുകയാണ്|am learning / studying|This focuses an action in progress. The citation / verbal-noun form joins aanu with a linking y.|padikkuka=learning / studying (verbal noun) / aanu=is / am / are; ongoing-action construction
+താമസിക്കുന്നത്|living / staying; where one lives|The present action is turned into a noun-like expression. In “where is it that you live?”, it identifies the act of living.|thaamasikk-=live; stay / -unnathu=the act / fact of …ing (present nominalized form)
+പോകുന്നതിന്|for going; to go|A nominalized present action takes a “to / for” ending.|pok-=go / -unnathinu=for the act of going (nominalized form + dative)
+പറഞ്ഞത്|what was said|The past action is made into a thing / fact that can be discussed.|paranj-=said (past stem of parayuka) / -athu=what was …; nominalizing ending
+വരച്ചത്|what was drawn; drew|A past action is nominalized: “who is it that drew [this]?”|varachch-=drew (past stem of varaykkuka) / -athu=what was …; nominalizing ending
+പൂർത്തിയായി|became complete; is completed|Aayi indicates a change of state, rather than a simple identity with aanu.|poorthi=completion / aayi=became; came to be
+ഇഷ്ടമായി|liked; came to like|With enikku (“to me”), this naturally becomes “I liked it”.|ishtam=liking / aayi=became; came to be
+പച്ചയായി|green; as green|Here aayi turns the quality into a state / manner expression.|pachcha=green / aayi=as; in the state of
+പൊതിഞ്ഞു|wrapped; packed|A past / linking form of pothiyuka (“wrap”). Before tharaamo it means “could you wrap [it] and give [it to me]?”
+ഇട്ടു|put; wore|A past / linking form of iduka (“put / wear”). Ittu nokkaamo = may I put it on and see / try it?
+മാറ്റി|changed; exchanged|A linking form of maattuka (“change”). Maatti tharaamo asks someone to exchange an item and give it back.
+തെറ്റി|went wrong; strayed|Vazhi thetti is the expression for losing your way: “the route went wrong”.
+നഷ്ടപ്പെട്ടു|was lost|A lexical expression for something getting lost; not an instruction to lose it.
+ചോദിക്കട്ടെ|let me ask|The -atte form asks permission / expresses a wish to do something.|chodikk-=ask / -atte=let me; permission / wish ending
+നോക്കട്ടെ|let me look||nokk-=look / -atte=let me; permission / wish ending
+ആദ്യമായി|for the first time|Aadyam (“first”) is used in an adverbial expression with aayi.
+ഇന്നത്തെ|today’s|The form qualifies a following noun as belonging to today.|innu=today / -athe=of; belonging to (adjectival time form)
+സംഘത്തിലെ|of / in the group|A group’s location / membership relation is made into a modifier.|samgham=group / -thile=in; of (locative modifier)
+കോഴ്സിന്റെ|of the course||course=course / -inte=of; possessive ending
+ചെരുപ്പുകളാണ്|are shoes / footwear||cheruppu=shoe; footwear / -kal=plural / aanu=is / are
+പുസ്തകങ്ങളാണ്|are books||pusthakam=book (stem pusthaka-) / -ngal=plural / aanu=is / are
+സുരക്ഷിതമാണോ|is it safe?||surakshitham=safe / aano?=is / are …? (aanu + -o)
+ശരിയാണോ|is it correct?||shari=correct; right / aano?=is / are …? (aanu + -o)
+ലഭ്യമാണോ|is it available?||labhyam=available / aano?=is / are …? (aanu + -o)
+സസ്യാഹാരം|vegetarian food|A useful compound: sasya refers to plants and aahaaram to food. The vowels join in sasyaahaaram.|sasya=plant; plant-based / aahaaram=food
+തലവേദന|headache||thala=head / vedana=pain
+ചൂടുവെള്ളം|hot water||choodu=heat; hot / vellam=water
+നമസ്കാരം|hello; respectful greeting|A conventional greeting with Sanskrit origins. Learn the greeting as one unit rather than translating its syllables separately.
+നന്ദി|thanks; gratitude|A complete conventional thank-you. There is no need to add a separate word for “you”.
+എടത്തോട്ട്|to the left||edam=left side (changed stem edath-) / -ottu=towards
+ഇടത്തോട്ട്|to the left||idam=left side (changed stem idath-) / -ottu=towards
+വലത്തോട്ട്|to the right||valam=right side (changed stem valath-) / -ottu=towards
+ഇങ്ങോട്ട്|towards here|Learn this directional word together with angottu (“towards there”).
+അങ്ങോട്ട്|towards there|Learn this directional word together with ingottu (“towards here”).
+മുന്നോട്ട്|forward; ahead||mun=front / -ottu=towards
+ഇത്രയും|this much; so much|An extent expression; the ending belongs to this established form.
+പരസ്പരം|each other; mutually|Shows that the action goes both ways, as in helping one another.
+ആകെ|altogether; total|Qualifies an amount as a total.
+പേർ|people (when counting)|Use per for counting people, rather than translating “heads” literally.
+അനു|Anu (a person’s name)|A proper name; keep it as one unit.
+രാഘവ്|Raghav (a person’s name)|Replace this name with yours; personal names do not need a grammar split.
+ഭാഷ|language
+കാഴ്ച|sight; view
+രേഖ|record; document
+താമസം|stay; residence
+ശീലം|habit
+വളവ്|bend; turn
+പ്രത്യേകത|special feature; speciality
+എരിവ്|spice; heat (of food)
+ഇല്ലാതെ|without|This negative expression can follow a noun: panchasaara illaathe = without sugar.
+പതുക്കെ|slowly; gently|An adverb that qualifies an action, such as speaking or driving.
+നേരെ|straight; straight ahead
+വേറെ|another; different
+നിറം|colour
+സഞ്ചി|bag (usually a carry bag)
+അർത്ഥം|meaning
+ആരെങ്കിലും|someone; anyone|The question word aaru (“who”) becomes an indefinite expression in aarenkilum. Learn the full indefinite form before extending the pattern.
+തൂവാല|towel
+തിരിച്ചു|back; in return|Before a coming / going verb, it indicates returning.
+പ്രവേശന|entry; entrance (before a noun)|The modifying form used in praveshana fees (“entrance fee”).
+മെനു|menu (English loanword)
+സ്റ്റോപ്പ്|stop (English loanword)
+ആംബുലൻസ്|ambulance (English loanword)
+ബുക്കിങ്|booking (English loanword)
+എയർ|air (English loanword)
+കണ്ടീഷൻ|condition (in “air condition”)|Read air condition together as the familiar loan expression for air conditioning.
+ചെക്കൗട്ട്|checkout (English loanword)
+യുപിഐ|UPI (payment system)
+എടിഎം|ATM (cash machine)
+ചാർജ്|charge (English loanword)|With cheyyuka (“do”), this forms “to charge” a phone.
+ഗൈഡ്|guide (English loanword)
+ബുക്ക്|book (English loanword)|With cheyyuka (“do”), this forms “to book” a trip.
+ബിൽ|bill (English loanword)
+ഇംഗ്ലീഷ്|English (language name)
+സഹായിക്കൂ|please help||sahaayikk-=help / -oo=request / instruction ending
+കഴിഞ്ഞ്|after; having passed|A linking form of kazhiyuka (“pass / finish”). After a time expression, it can mean “after”.
+കട്ടൻ|black; without milk (tea / coffee)|A tea-shop usage: kattan chaaya means black tea. Learn kattan as a whole qualifier here.
+മധുരം|sweetness; sweetening|In a tea order, madhuram venda asks for no sweetening. It is not literally the same noun as panchasaara (“sugar”).
+മരുന്നുകട|pharmacy; medicine shop||marunnu=medicine / kada=shop
+റെയിൽവേ|railway (English loanword)
+സ്റ്റാൻഡ്|stand (English loanword)|Bus stand is a familiar borrowed place expression.
+അയക്കാമോ|could I send …?; could you send …?|The subject comes from context. The -aam form is questioned with -o.|ayakk-=send / -aam=can / willing-to form / -o?=yes/no question ending
+അയയ്ക്കാമോ|could you send …?|An alternative spelling of the send-verb form.|ayaykk-=send / -aam=can / willing-to form / -o?=yes/no question ending
+ഇടാമോ|could you put / switch on …?|In the meter phrase, “put the meter” means use / switch on the meter.|id-=put; set / -aam=can / willing-to form / -o?=yes/no question ending
+ഇരിക്കാമോ|may I sit …?||irikk-=sit / -aam=can / permission form / -o?=yes/no question ending
+ഉണ്ടാകുമോ|will there be …?||undaak-=be; happen / -um=will / non-past form / -o?=yes/no question ending
+ഉപയോഗിക്കാമോ|may I use …?||upayogikk-=use / -aam=can / permission form / -o?=yes/no question ending
+എടുക്കാമോ|may I take …?; could you take …?|The same verb can ask permission for yourself or request an action from someone else. Context supplies the person.|edukk-=take / -aam=can / permission form / -o?=yes/no question ending
+എഴുതിക്കാണിക്കാമോ|could you show me in writing?|Two actions join into one request: write it and show it.|ezhuthi=having written; write and … / kaanikk-=show / -aam=can / willing-to form / -o?=yes/no question ending
+കാണാമോ|may I see …?||kaan-=see / -aam=can / permission form / -o?=yes/no question ending
+കാണിക്കാമോ|could you show …?||kaanikk-=show / -aam=can / willing-to form / -o?=yes/no question ending
+കിട്ടിയോ|did you get / receive …?|The past form kitti is questioned with -o; a linking y joins the vowels.|kitti=got; received / -o?=yes/no question ending (with a linking y)
+കിട്ടുമോ|can I get …?; will … be available?||kitt-=get; receive / -um=will / non-past form / -o?=yes/no question ending
+കുറയ്ക്കാമോ|could you reduce …?||kuraykk-=reduce; lower / -aam=can / willing-to form / -o?=yes/no question ending
+കേൾക്കാമോ|can … hear …?||kelkk-=hear / -aam=can / possibility form / -o?=yes/no question ending
+ചെയ്യാമോ|can / may … do …?|After a borrowed activity word such as book or charge, cheyyuka (“do”) forms the action.|cheyy-=do / -aam=can / permission form / -o?=yes/no question ending
+നടക്കാമോ|can / may I walk …?||nadakk-=walk / -aam=can / permission form / -o?=yes/no question ending
+നീന്താമോ|can / may I swim …?||neenth-=swim / -aam=can / permission form / -o?=yes/no question ending
+നോക്കാമോ|may I look / try …?|Ittu nokkaamo (“may I put it on and see?”) naturally means “may I try it on?”.|nokk-=look; try / -aam=can / permission form / -o?=yes/no question ending
+പറഞ്ഞുതരാമോ|could you tell / say it for me?|Paranju (“said”) links to the giving verb: say it and give the explanation to me.|paranju=say and … (linking form) / thar-=give towards me / us / -aam=can / willing-to form / -o?=yes/no question ending
+പറയാമോ|could you say …?||paray-=say; speak / -aam=can / willing-to form / -o?=yes/no question ending
+പോകാമോ|may / can I go …?||pok-=go / -aam=can / permission form / -o?=yes/no question ending
+പോകുമോ|will … go …?||pok-=go / -um=will / non-past form / -o?=yes/no question ending
+വരാമോ|can / could … come …?||var-=come / -aam=can / willing-to form / -o?=yes/no question ending
+വൃത്തിയാക്കാമോ|could you clean …?||vriththiyaakk-=clean; make clean / -aam=can / willing-to form / -o?=yes/no question ending
+വെക്കാമോ|may I put / leave …?||vekk-=put; place; leave / -aam=can / permission form / -o?=yes/no question ending
+സഹായിക്കാമോ|could … help …?||sahaayikk-=help / -aam=can / willing-to form / -o?=yes/no question ending
+തലമുടി|hair (on the head)||thala=head / mudi=hair
+കാൽവിരൽ|toe||kaal=foot; leg / viral=finger; digit
+കൈവിരൽ|finger||kai=hand / viral=finger; digit
+കണ്ണുനീർ|tears||kannu=eye / neer=water; fluid
+വിമാനത്താവളം|airport||vimaanam=aircraft (stem vimaanath-) / thaavalam=base; place
+പാചകക്കാരൻ|cook (male)||paachakam=cooking (stem paachaka-) / -kkaaran=person associated with a job / activity (masculine)
+കടക്കാരൻ|shopkeeper (male)||kada=shop / -kkaaran=person associated with it (masculine)
+പത്രപ്രവർത്തകൻ|journalist||pathram=newspaper / pravarththakan=worker; practitioner
+അധ്യാപിക|teacher (female)|This is the feminine counterpart of adhyaapakan (“male teacher”). Learn the pair; grammatical gender does not work by adding one universal ending to every noun.
+വിദ്യാർത്ഥിനി|student (female)|This is the feminine counterpart of vidyaarthi (“student”). Learn the pair as vocabulary.
+വായനശാല|reading room; library||vaayana=reading / shaala=hall; place
+ഭക്ഷണശാല|dining hall; restaurant||bhakshanam=food; meal (stem bhakshana-) / shaala=hall; place
+കുളിമുറി|bathroom||kuli=bathing / muri=room
+കിടപ്പുമുറി|bedroom||kidappu=lying down; sleeping / muri=room
+പഠനമുറി|study room||padanam=study (stem padana-) / muri=room
+സ്വീകരണമുറി|living / reception room||sveekaranam=receiving; welcoming (stem sveekarana-) / muri=room
+അലക്കുയന്ത്രം|washing machine||alakku=washing clothes / yanthram=machine
+പുകയില|tobacco||puka=smoke / ila=leaf (with a linking y)
+മഴക്കാലം|rainy season||mazha=rain / kaalam=season; period (with a joining kk)
+വേനൽക്കാലം|summer||venal=summer; hot season / kaalam=season; period (with a joining kk)
+തണുപ്പുകാലം|cold season; winter||thanuppu=cold / kaalam=season; period
+സൂര്യപ്രകാശം|sunlight||soorya=sun / prakaasham=light
+പച്ചക്കറി|vegetables|An established compound used as a food word; the meaning is not limited to things that are green.|pachcha=green; raw / kari=vegetable preparation; curry (joined with kk)
+പഴച്ചാർ|fruit juice||pazham=fruit (stem pazha-) / chaar=juice
+നാരങ്ങാവെള്ളം|lime / lemon water||naaranga=lime; lemon / vellam=water
+തേങ്ങാപ്പാൽ|coconut milk||thenga=coconut / paal=milk (with a joining pp)
+കടൽത്തീരം|seashore; beach||kadal=sea / theeram=shore (with a joining th)
+റെയിൽവേസ്റ്റേഷൻ|railway station||railway=railway (English loan) / station=station (English loan)
+മീൻകറി|fish curry||meen=fish / kari=curry
+പാൽച്ചായ|milk tea||paal=milk / chaaya=tea (with a joining ch)
+കുടിവെള്ളം|drinking water||kudi=drinking / vellam=water
+ജോലിസ്ഥലം|workplace||joli=work / sthalam=place
+യാത്രക്കാരൻ|traveller; passenger (male)||yaathra=journey; travel / -kkaaran=person associated with it (masculine)
+സഹപ്രവർത്തകൻ|colleague||saha-=together; co- / pravarththakan=worker

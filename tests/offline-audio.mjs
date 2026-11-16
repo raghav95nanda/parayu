@@ -1,0 +1,25 @@
+import {readFileSync} from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+
+const store=new Map();let fetches=0,offline=false;
+const cache={async match(key){return store.get(typeof key==='string'?key:key.url)?.clone()},async put(key,response){store.set(typeof key==='string'?key:key.url,response.clone())}};
+const ctx=vm.createContext({self:{registration:{scope:'https://parayu.test/'},addEventListener(){},skipWaiting(){},clients:{claim(){}}},URL,Headers,Request,Response,importScripts(){},caches:{async open(){return cache}},async fetch(request){assert.equal(request.headers.get('range'),null,'Network download must fetch a whole clip');fetches++;if(offline)throw new Error('offline');return new Response(new Uint8Array([0,1,2,3,4,5,6,7,8,9]),{status:200,headers:{'Content-Type':'audio/mpeg'}})}});
+vm.runInContext(readFileSync(new URL('../dist/content-audio-index.js',import.meta.url),'utf8'),ctx);
+vm.runInContext(readFileSync(new URL('../dist/sw.js',import.meta.url),'utf8'),ctx);
+assert.equal(vm.runInContext('VOCABULARY_AUDIO.size',ctx),2000);
+assert.equal(vm.runInContext('AUDIO_FILES.length',ctx),290);
+const id=vm.runInContext('self.PARAYU_AUDIO_INDEX.vocabularyIds[0]',ctx);
+const url='https://parayu.test/audio/vocabulary/'+id+'-word.mp3';
+ctx.request=new Request(url,{headers:{Range:'bytes=2-5'}});
+let response=await vm.runInContext('audioResponse(request)',ctx);
+assert.equal(response.status,206);assert.equal(response.headers.get('Content-Range'),'bytes 2-5/10');
+assert.deepEqual([...new Uint8Array(await response.arrayBuffer())],[2,3,4,5]);
+assert.equal(fetches,1);
+offline=true;ctx.request=new Request(url,{headers:{Range:'bytes=6-'}});
+response=await vm.runInContext('audioResponse(request)',ctx);
+assert.deepEqual([...new Uint8Array(await response.arrayBuffer())],[6,7,8,9]);
+assert.equal(fetches,1,'Replay must work from the offline cache');
+ctx.request=new Request(url,{headers:{Range:'bytes=99-'}});
+response=await vm.runInContext('audioResponse(request)',ctx);assert.equal(response.status,416);
+console.log('Passed: 2000 on-demand vocabulary clips, complete downloads, byte ranges and offline replay.');
